@@ -1,0 +1,243 @@
+\t (00:00:01) allegro 17.4 S037 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Fri Sep 20 21:57:05 2024
+\t (00:00:01)         Host=COMPUTER User=TZH Pid=17416 CPUs=12
+\t (00:00:01) CmdLine= D:\Cadence\Cadence\SPB_17.4\tools\bin\allegro.exe F:\OneDrive\Projects\PCB\HL-VPN\RK3568_Official Release\04_Product Line Branch(NVR)\03_Demo Reference Design\PCB_Allegro\RK_NVR_DEMO_RK3568_DDR4P216SD4_V12_20201221YWQ_final.brd
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+   (00:00:01) *Error* load: can't access file - "x_silk_in_out.il"
+   (00:00:01) function x_get_sym_bbox redefined
+   (00:00:01) function loginshow redefined
+   (00:00:01) function TimeOrder redefined
+   (00:00:01) function create_loginshow_form_file redefined
+   (00:00:01) function getskillpasslist redefined
+   (00:00:01) function getskilllist redefined
+   (00:00:01) function loginshow_form_action redefined
+   (00:00:01) function strlenlessp redefined
+   (00:00:01) function CaptureImage redefined
+   (00:00:01) function Save_Database redefined
+   (00:00:01) function GotMonthTable redefined
+   (00:00:01) function Property_Viewer redefined
+   (00:00:01) function SkillLoader redefined
+   (00:00:01) function tait_logoThumbnail redefined
+   (00:00:01) *Error* load: can't access file - "val_c"
+   (00:00:01) *Error* load: can't access file - "val_o"
+   (00:00:01) *Error* load: can't access file - "xgird.il"
+   (00:00:01) function jfhGetRefIDComDir redefined
+   (00:00:01) function jfhRotateTopRef redefined
+   (00:00:01) function jfhRotateBtmRef redefined
+   (00:00:01) function jfhRotateTopRefIr redefined
+   (00:00:01) function jfhRotateBtmRefIr redefined
+   (00:00:01) function ref redefined
+   (00:00:01) function jfhrotaterefIr redefined
+   (00:00:01) function check_text_overlap redefined
+   (00:00:01) function biuld_form redefined
+   (00:00:01) function pform_Action redefined
+   (00:00:01) function refdes_on_pad redefined
+   (00:00:01) function barcode_overlap_atom redefined
+   (00:00:01) function refdes_overlap_component redefined
+   (00:00:01) function text_overlap_text redefined
+   (00:00:01) function text_on_pad redefined
+   (00:00:01) function text_on_testpoints redefined
+   (00:00:01) function get_bar_code_box redefined
+   (00:00:01) function getbox redefined
+   (00:00:01) function text_on_text redefined
+   (00:00:01) function unselect_object redefined
+   (00:00:01) function turn_on_layer redefined
+   (00:00:01) function init_loc_text redefined
+   (00:00:01) function add_loc_text redefined
+   (00:00:01) function location_text redefined
+   (00:00:01) function location_prv redefined
+   (00:00:01) function x_dump_lib redefined
+   (00:00:01) function x_ro_sel_refdes redefined
+   (00:00:01) function x_move_sel_refdes redefined
+   (00:00:01) function x_get_sym_bbox redefined
+   (00:00:01) function x_align_symbol redefined
+   (00:00:01) function x_sym_align_left redefined
+   (00:00:01) function x_sym_align_right redefined
+   (00:00:01) function x_sym_align_up redefined
+   (00:00:01) function x_sym_align_down redefined
+   (00:00:01) function x_sym_align_hcenter redefined
+   (00:00:01) function x_sym_align_vcenter redefined
+   (00:00:01) function x_sym_align_undo redefined
+   (00:00:01) function x_get_sym_bbox redefined
+   (00:00:01) function x_split_shape redefined
+   (00:00:01) *Error* load: can't access file - "D:/skill/ch_ref.il"
+   (00:00:01) *Error* load: can't access file - "D:/skill/ch_text_overlap.il"
+   (00:00:01) *Error* load: can't access file - "D:/skill/change_net_onvias.il"
+   (00:00:01) *Error* load: can't access file - "D:/skill/check_dir.il"
+   (00:00:01) *Error* load: can't access file - "D:/skill/conv.il"
+   (00:00:01) *Error* load: can't access file - "D:/skill/dumplib.il"
+   (00:00:01) *Error* load: can't access file - "D:/skill/orphannet.il"
+   (00:00:01) *Error* load: can't access file - "D:/skill/quick_view.il"
+   (00:00:01) *Error* load: can't access file - "D:/skill/x_mc_ro_text.il"
+   (00:00:01) *Error* load: can't access file - "D:/skill/replace_via.il"
+   (00:00:01) *Error* load: can't access file - "D:/skill/scalpel.il"
+   (00:00:01) *Error* load: can't access file - "D:/skill/x_align_symbol.il"
+   (00:00:01) *Error* load: can't access file - "D:/skill/x_cline2shape.il"
+   (00:00:01) *Error* load: can't access file - "D:/skill/x_split_shape.il"
+   (00:00:01) *Error* load: can't access file - "D:/skill/gridsa.il"
+   (00:00:01) *Error* load: can't access file - "D:/skill/fform.il"
+   (00:00:01) *Error* load: can't access file - "D:/skill/x_check_line90.il"
+   (00:00:01) *Error* load: can't access file - "D:/skill/x_change_lw.il"
+   (00:00:01) *Error* load: can't access file - "C:/SPB_Data/pcbenv/HZ$D.172.443/Jun_SkillLoad.il"
+   (00:00:01) *Error* eval: undefined function - Jun_SkillLoad
+\t (00:00:02) Opening existing design...
+\d (00:00:02) Design opened: F:/OneDrive/Projects/PCB/HL-VPN/RK3568_Official Release/04_Product Line Branch(NVR)/03_Demo Reference Design/PCB_Allegro/RK_NVR_DEMO_RK3568_DDR4P216SD4_V12_20201221YWQ_final.brd
+\i (00:00:02) trapsize 528
+\i (00:00:02) trapsize 542
+\i (00:00:02) trapsize 490
+\i (00:00:02) trapsize 490
+\i (00:00:02) strokefile allegro 
+\i (00:00:03) placementedit 
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out 751.042 -297.182
+\i (00:00:06) trapsize 981
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out 751.042 -297.181
+\i (00:00:07) trapsize 1961
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out 750.650 -297.181
+\i (00:00:07) trapsize 3922
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out 750.649 -297.181
+\i (00:00:07) trapsize 7844
+\i (00:00:08) zoom in 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom in 214.102 -30.476
+\i (00:00:08) trapsize 3922
+\i (00:00:08) zoom in 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom in 264.306 -58.715
+\i (00:00:08) trapsize 1961
+\i (00:00:08) zoom in 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom in 273.720 -66.951
+\i (00:00:08) trapsize 981
+\i (00:00:09) zoom in 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom in 279.603 -72.834
+\i (00:00:09) trapsize 490
+\i (00:00:09) roam start
+\i (00:00:09) roam x -16
+\i (00:00:09) roam y -16
+\i (00:00:09) roam x -32
+\i (00:00:09) roam y -32
+\i (00:00:09) roam x -32
+\i (00:00:09) roam y -32
+\i (00:00:09) roam x -16
+\i (00:00:09) roam y -32
+\i (00:00:09) roam x -32
+\i (00:00:09) roam y -16
+\i (00:00:10) roam x -16
+\i (00:00:10) roam y -16
+\i (00:00:10) roam end
+\i (00:00:13) prepopup 341.196 -74.595
+\i (00:00:15) pop dyn_option_select 'Application Mode@:@General Edit' 
+\i (00:00:15) generaledit 
+\i (00:00:21) zoom out 1 
+\i (00:00:21) setwindow pcb
+\i (00:00:21) zoom out 275.010 -45.179
+\i (00:00:21) trapsize 981
+\i (00:00:21) zoom out 1 
+\i (00:00:21) setwindow pcb
+\i (00:00:21) zoom out 275.010 -45.178
+\i (00:00:21) trapsize 1961
+\i (00:00:23) roam start
+\i (00:00:23) roam x -16
+\i (00:00:23) roam y 16
+\i (00:00:23) roam x -16
+\i (00:00:23) roam x -16
+\i (00:00:23) roam y 16
+\i (00:00:23) roam x -16
+\i (00:00:23) roam y 16
+\i (00:00:23) roam x -16
+\i (00:00:23) roam y 16
+\i (00:00:23) roam x -16
+\i (00:00:23) roam y 16
+\i (00:00:23) roam x -16
+\i (00:00:23) roam y 16
+\i (00:00:23) roam x -16
+\i (00:00:23) roam end
+\i (00:00:23) zoom out 1 
+\i (00:00:23) setwindow pcb
+\i (00:00:23) zoom out 320.017 -103.521
+\i (00:00:23) trapsize 3922
+\i (00:00:24) roam start
+\i (00:00:24) roam y 16
+\i (00:00:24) roam y 48
+\i (00:00:24) roam y 48
+\i (00:00:24) roam y 32
+\i (00:00:24) roam x -16
+\i (00:00:24) roam y 64
+\i (00:00:24) roam x -16
+\i (00:00:24) roam y 80
+\i (00:00:24) roam x -16
+\i (00:00:24) roam y 48
+\i (00:00:24) roam y 32
+\i (00:00:24) roam y 32
+\i (00:00:24) roam end
+\i (00:00:25) roam start
+\i (00:00:25) roam y -16
+\i (00:00:25) roam x 48
+\i (00:00:25) roam y -16
+\i (00:00:26) roam x 16
+\i (00:00:26) roam y -16
+\i (00:00:26) roam end
+\i (00:00:26) zoom in 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom in 307.074 -421.998
+\i (00:00:26) trapsize 1961
+\i (00:00:26) zoom in 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom in 304.721 -428.273
+\i (00:00:26) trapsize 981
+\i (00:00:26) zoom in 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom in 303.937 -431.018
+\i (00:00:26) trapsize 490
+\i (00:00:28) zoom out 1 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom out 306.879 -443.177
+\i (00:00:28) trapsize 981
+\i (00:00:28) zoom out 1 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom out 290.993 -438.470
+\i (00:00:28) trapsize 1961
+\i (00:00:29) roam start
+\i (00:00:29) roam y -16
+\i (00:00:29) roam y -48
+\i (00:00:29) roam y -16
+\i (00:00:29) roam y -32
+\i (00:00:29) roam y -16
+\i (00:00:29) roam y -32
+\i (00:00:29) roam y -16
+\i (00:00:29) roam y -16
+\i (00:00:29) roam y -16
+\i (00:00:29) roam y -16
+\i (00:00:29) roam y -16
+\i (00:00:29) roam y -16
+\i (00:00:29) roam y -16
+\i (00:00:29) roam x -16
+\i (00:00:29) roam y -32
+\i (00:00:29) roam y -16
+\i (00:00:29) roam y -16
+\i (00:00:29) roam y -16
+\i (00:00:29) roam end
+\i (00:00:29) zoom in 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom in 315.310 -306.295
+\i (00:00:29) trapsize 981
+\i (00:00:30) zoom in 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom in 315.311 -306.295
+\i (00:00:30) trapsize 490
+\i (00:00:30) zoom in 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom in 315.311 -306.295
+\i (00:00:30) trapsize 245
+\i (00:00:34) exit 
+\t (00:00:36)     Journal end - Fri Sep 20 21:57:40 2024

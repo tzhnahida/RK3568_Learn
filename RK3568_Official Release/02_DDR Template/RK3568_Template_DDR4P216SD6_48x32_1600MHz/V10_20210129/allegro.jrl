@@ -1,0 +1,555 @@
+\t (00:00:06) allegro 17.4 S037 Windows SPB 64-bit Edition
+\t (00:00:06)     Journal start - Tue Jun 10 20:40:59 2025
+\t (00:00:06)         Host=COMPUTER User=TZH Pid=18816 CPUs=12
+\t (00:00:06) CmdLine= D:\Cadence\Cadence\SPB_17.4\tools\bin\allegro.exe F:\OneDrive\Projects\PCB\HL-VPN\RK3568_Official Release\02_DDR Template\RK3568_Template_DDR4P216SD6_48x32_1600MHz\V10_20210129\RK3568_Template_DDR4P216SD6_48x32_1600MHZ_V10_20210129GXL.brd
+\t (00:00:06) 
+   (00:00:06) Loading axlcore.cxt 
+   (00:00:06) *Error* load: can't access file - "x_silk_in_out.il"
+   (00:00:06) function x_get_sym_bbox redefined
+   (00:00:06) function loginshow redefined
+   (00:00:06) function TimeOrder redefined
+   (00:00:06) function create_loginshow_form_file redefined
+   (00:00:06) function getskillpasslist redefined
+   (00:00:06) function getskilllist redefined
+   (00:00:06) function loginshow_form_action redefined
+   (00:00:06) function strlenlessp redefined
+   (00:00:06) function CaptureImage redefined
+   (00:00:06) function Save_Database redefined
+   (00:00:06) function GotMonthTable redefined
+   (00:00:06) function Property_Viewer redefined
+   (00:00:06) function SkillLoader redefined
+   (00:00:06) function tait_logoThumbnail redefined
+   (00:00:06) *Error* load: can't access file - "val_c"
+   (00:00:06) *Error* load: can't access file - "val_o"
+   (00:00:06) *Error* load: can't access file - "xgird.il"
+   (00:00:06) function jfhGetRefIDComDir redefined
+   (00:00:06) function jfhRotateTopRef redefined
+   (00:00:06) function jfhRotateBtmRef redefined
+   (00:00:06) function jfhRotateTopRefIr redefined
+   (00:00:06) function jfhRotateBtmRefIr redefined
+   (00:00:06) function ref redefined
+   (00:00:06) function jfhrotaterefIr redefined
+   (00:00:06) function check_text_overlap redefined
+   (00:00:06) function biuld_form redefined
+   (00:00:06) function pform_Action redefined
+   (00:00:06) function refdes_on_pad redefined
+   (00:00:06) function barcode_overlap_atom redefined
+   (00:00:06) function refdes_overlap_component redefined
+   (00:00:06) function text_overlap_text redefined
+   (00:00:06) function text_on_pad redefined
+   (00:00:06) function text_on_testpoints redefined
+   (00:00:06) function get_bar_code_box redefined
+   (00:00:06) function getbox redefined
+   (00:00:06) function text_on_text redefined
+   (00:00:06) function unselect_object redefined
+   (00:00:06) function turn_on_layer redefined
+   (00:00:06) function init_loc_text redefined
+   (00:00:06) function add_loc_text redefined
+   (00:00:06) function location_text redefined
+   (00:00:06) function location_prv redefined
+   (00:00:06) function x_dump_lib redefined
+   (00:00:06) function x_ro_sel_refdes redefined
+   (00:00:06) function x_move_sel_refdes redefined
+   (00:00:06) function x_get_sym_bbox redefined
+   (00:00:06) function x_align_symbol redefined
+   (00:00:06) function x_sym_align_left redefined
+   (00:00:06) function x_sym_align_right redefined
+   (00:00:06) function x_sym_align_up redefined
+   (00:00:06) function x_sym_align_down redefined
+   (00:00:06) function x_sym_align_hcenter redefined
+   (00:00:06) function x_sym_align_vcenter redefined
+   (00:00:06) function x_sym_align_undo redefined
+   (00:00:06) function x_get_sym_bbox redefined
+   (00:00:06) function x_split_shape redefined
+   (00:00:06) *Error* load: can't access file - "D:/skill/ch_ref.il"
+   (00:00:06) *Error* load: can't access file - "D:/skill/ch_text_overlap.il"
+   (00:00:06) *Error* load: can't access file - "D:/skill/change_net_onvias.il"
+   (00:00:06) *Error* load: can't access file - "D:/skill/check_dir.il"
+   (00:00:06) *Error* load: can't access file - "D:/skill/conv.il"
+   (00:00:06) *Error* load: can't access file - "D:/skill/dumplib.il"
+   (00:00:06) *Error* load: can't access file - "D:/skill/orphannet.il"
+   (00:00:06) *Error* load: can't access file - "D:/skill/quick_view.il"
+   (00:00:06) *Error* load: can't access file - "D:/skill/x_mc_ro_text.il"
+   (00:00:06) *Error* load: can't access file - "D:/skill/replace_via.il"
+   (00:00:06) *Error* load: can't access file - "D:/skill/scalpel.il"
+   (00:00:06) *Error* load: can't access file - "D:/skill/x_align_symbol.il"
+   (00:00:06) *Error* load: can't access file - "D:/skill/x_cline2shape.il"
+   (00:00:06) *Error* load: can't access file - "D:/skill/x_split_shape.il"
+   (00:00:06) *Error* load: can't access file - "D:/skill/gridsa.il"
+   (00:00:06) *Error* load: can't access file - "D:/skill/fform.il"
+   (00:00:06) *Error* load: can't access file - "D:/skill/x_check_line90.il"
+   (00:00:06) *Error* load: can't access file - "D:/skill/x_change_lw.il"
+   (00:00:06) *Error* load: can't access file - "C:/SPB_Data/pcbenv/HZ$D.172.443/Jun_SkillLoad.il"
+   (00:00:06) *Error* eval: undefined function - Jun_SkillLoad
+\t (00:00:07) Opening existing design...
+\d (00:00:07) Design opened: F:/OneDrive/Projects/PCB/HL-VPN/RK3568_Official Release/02_DDR Template/RK3568_Template_DDR4P216SD6_48x32_1600MHz/V10_20210129/RK3568_Template_DDR4P216SD6_48x32_1600MHZ_V10_20210129GXL.brd
+\i (00:00:07) trapsize 1152
+\i (00:00:07) trapsize 1183
+\i (00:00:07) trapsize 1039
+\i (00:00:08) trapsize 1228
+\i (00:00:08) trapsize 1229
+\i (00:00:08) strokefile allegro 
+\i (00:00:08) placementedit 
+\i (00:00:14) trapsize 1934
+\i (00:00:15) trapsize 1229
+\i (00:00:16) pick grid 4911.068 3592.167
+\t (00:00:16) last pick:  4911.070 3592.170
+\i (00:00:16) zoom out 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom out 4911.068 3592.167
+\i (00:00:16) trapsize 2457
+\i (00:00:16) zoom out 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom out 4911.068 3592.166
+\i (00:00:16) trapsize 4914
+\i (00:00:16) zoom out 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom out 4911.067 3592.167
+\i (00:00:16) trapsize 9828
+\i (00:00:16) zoom out 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom out 4911.068 3592.167
+\i (00:00:16) trapsize 19656
+\i (00:00:16) roam start
+\i (00:00:16) roam y 16
+\i (00:00:16) roam y 16
+\i (00:00:17) roam x 16
+\i (00:00:17) roam y 48
+\i (00:00:17) roam y 16
+\i (00:00:17) roam y 16
+\i (00:00:17) roam y 16
+\i (00:00:17) roam y 16
+\i (00:00:17) roam x 16
+\i (00:00:17) roam y 16
+\i (00:00:17) roam x 16
+\i (00:00:17) roam y 16
+\i (00:00:17) roam x 16
+\i (00:00:17) roam y 16
+\i (00:00:17) roam x 32
+\i (00:00:17) roam y 16
+\i (00:00:17) roam x 16
+\i (00:00:17) roam y 16
+\i (00:00:17) roam end
+\i (00:00:17) zoom in 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom in 5563.246 2931.543
+\i (00:00:17) trapsize 9828
+\i (00:00:18) QtSignal CVPLayerGrid CVPBoxAllTop clicked false
+\i (00:00:22) QtSignal CVPLayerGrid CVPButtonEtchTop clicked
+\i (00:00:22) updateport CVPane
+\i (00:00:23) zoom in 1 
+\i (00:00:23) setwindow pcb
+\i (00:00:23) zoom in 5337.202 3175.278
+\i (00:00:23) trapsize 4914
+\i (00:00:23) zoom in 1 
+\i (00:00:23) setwindow pcb
+\i (00:00:23) zoom in 5336.220 3175.278
+\i (00:00:23) trapsize 2457
+\i (00:00:23) zoom in 1 
+\i (00:00:23) setwindow pcb
+\i (00:00:23) zoom in 5317.547 3159.554
+\i (00:00:23) trapsize 1229
+\i (00:00:23) zoom in 1 
+\i (00:00:23) setwindow pcb
+\i (00:00:23) zoom in 5311.159 3153.166
+\i (00:00:23) trapsize 614
+\i (00:00:23) zoom out 1 
+\i (00:00:23) setwindow pcb
+\i (00:00:23) zoom out 5309.562 3151.078
+\i (00:00:23) trapsize 1229
+\i (00:00:23) zoom out 1 
+\i (00:00:23) setwindow pcb
+\i (00:00:23) zoom out 5309.562 3151.079
+\i (00:00:23) trapsize 2457
+\i (00:00:24) zoom out 1 
+\i (00:00:24) setwindow pcb
+\i (00:00:24) zoom out 5309.562 3151.078
+\i (00:00:24) trapsize 4914
+\i (00:00:24) zoom out 1 
+\i (00:00:24) setwindow pcb
+\i (00:00:24) zoom out 5284.009 3190.391
+\i (00:00:24) trapsize 9828
+\i (00:00:24) zoom out 1 
+\i (00:00:24) setwindow pcb
+\i (00:00:24) zoom out 5284.009 3190.391
+\i (00:00:24) trapsize 19656
+\i (00:00:27) QtSignal CVPLayerGrid CVPButtonDrcThrough_All clicked
+\i (00:00:27) updateport CVPane
+\i (00:00:28) pick grid 6038.804 2313.727
+\t (00:00:28) last pick:  6038.800 2313.730
+\i (00:00:29) zoom out 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom out 6101.704 2333.383
+\i (00:00:29) trapsize 39312
+\i (00:00:29) zoom out 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom out 6101.703 2333.384
+\i (00:00:29) trapsize 78625
+\i (00:00:29) zoom out 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom out 6101.703 2333.384
+\i (00:00:29) trapsize 157249
+\i (00:00:29) zoom in 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom in 6101.705 2333.383
+\i (00:00:29) trapsize 78625
+\i (00:00:29) zoom in 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom in 6101.704 2333.384
+\i (00:00:29) trapsize 39312
+\i (00:00:30) zoom in 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom in 6101.704 2333.384
+\i (00:00:30) trapsize 19656
+\i (00:00:31) pick grid 6294.334 2282.278
+\t (00:00:31) last pick:  6294.330 2282.280
+\i (00:00:32) QtSignal CVPLayerGrid CVPAllConductors clicked true
+\i (00:00:33) setwindow form.find
+\i (00:00:33) FORM find all_on  
+\i (00:00:35) setwindow pcb
+\i (00:00:35) pick grid 6215.709 3261.154
+\t (00:00:35) last pick:  6215.710 3261.150
+\i (00:00:36) pick grid 6286.471 3237.566
+\t (00:00:36) last pick:  6286.470 3237.570
+\i (00:00:38) pick grid 6282.540 3237.566
+\t (00:00:38) last pick:  6282.540 3237.570
+\i (00:00:39) pick grid 6247.159 3206.117
+\t (00:00:39) last pick:  6247.160 3206.120
+\i (00:00:41) pick grid 6278.609 3119.630
+\t (00:00:41) last pick:  6278.610 3119.630
+\i (00:00:44) delete 
+\t (00:00:44) 选定项不适用于当前操作，已忽略：Net "Gnd"
+\t (00:00:44) 没有为当前操作选择有效项，正在退出。
+\i (00:00:44) placementedit 
+\i (00:00:46) pick grid 6219.640 2982.037
+\t (00:00:46) last pick:  6219.640 2982.040
+\i (00:00:46) pick grid 6219.640 2761.888
+\t (00:00:46) last pick:  6219.640 2761.890
+\i (00:00:47) pick grid 6294.334 2809.063
+\t (00:00:47) last pick:  6294.330 2809.060
+\i (00:00:48) zoom in 1 
+\i (00:00:48) setwindow pcb
+\i (00:00:48) zoom in 6262.884 2809.063
+\i (00:00:48) trapsize 9828
+\i (00:00:48) zoom in 1 
+\i (00:00:48) setwindow pcb
+\i (00:00:48) zoom in 6260.919 2809.063
+\i (00:00:48) trapsize 4914
+\i (00:00:48) zoom in 1 
+\i (00:00:48) setwindow pcb
+\i (00:00:48) zoom in 6260.919 2809.064
+\i (00:00:48) trapsize 2457
+\i (00:00:49) pick grid 6284.015 2842.480
+\t (00:00:49) last pick:  6284.020 2842.480
+\i (00:00:50) drag_start grid 6282.050 2835.109
+\i (00:00:50) drag_stop 6233.401 2865.084
+\i (00:00:50) zoom out 1 
+\i (00:00:50) setwindow pcb
+\i (00:00:50) zoom out 6230.452 2857.713
+\i (00:00:50) trapsize 4914
+\i (00:00:50) zoom out 1 
+\i (00:00:50) setwindow pcb
+\i (00:00:50) zoom out 6230.453 2857.714
+\i (00:00:50) trapsize 9828
+\i (00:00:50) zoom out 1 
+\i (00:00:50) setwindow pcb
+\i (00:00:50) zoom out 6230.453 2857.713
+\i (00:00:50) trapsize 19656
+\i (00:00:50) zoom out 1 
+\i (00:00:50) setwindow pcb
+\i (00:00:50) zoom out 6230.453 2857.713
+\i (00:00:50) trapsize 39312
+\i (00:00:51) zoom in 1 
+\i (00:00:51) setwindow pcb
+\i (00:00:51) zoom in 5231.921 2786.951
+\i (00:00:51) trapsize 19656
+\i (00:00:51) zoom in 1 
+\i (00:00:51) setwindow pcb
+\i (00:00:51) zoom in 5137.572 2790.882
+\i (00:00:51) trapsize 9828
+\i (00:00:51) zoom in 1 
+\i (00:00:51) setwindow pcb
+\i (00:00:51) zoom in 5139.538 2820.366
+\i (00:00:51) trapsize 4914
+\i (00:00:51) zoom out 1 
+\i (00:00:51) setwindow pcb
+\i (00:00:51) zoom out 5140.521 2821.349
+\i (00:00:51) trapsize 9828
+\i (00:00:51) zoom out 1 
+\i (00:00:51) setwindow pcb
+\i (00:00:51) zoom out 5140.521 2821.349
+\i (00:00:52) trapsize 19656
+\i (00:00:52) zoom out 1 
+\i (00:00:52) setwindow pcb
+\i (00:00:52) zoom out 5140.520 2821.349
+\i (00:00:52) trapsize 39312
+\i (00:00:52) zoom in 1 
+\i (00:00:52) setwindow pcb
+\i (00:00:52) zoom in 5140.520 2821.349
+\i (00:00:52) trapsize 19656
+\i (00:00:52) zoom in 1 
+\i (00:00:52) setwindow pcb
+\i (00:00:52) zoom in 5140.520 2821.349
+\i (00:00:52) trapsize 9828
+\i (00:01:08) pick grid 5759.689 2622.822
+\t (00:01:08) last pick:  5759.690 2622.820
+\i (00:01:08) zoom in 1 
+\i (00:01:08) setwindow pcb
+\i (00:01:08) zoom in 5341.013 2669.997
+\i (00:01:08) trapsize 4914
+\i (00:01:08) zoom in 1 
+\i (00:01:08) setwindow pcb
+\i (00:01:08) zoom in 5341.013 2669.997
+\i (00:01:08) trapsize 2457
+\i (00:01:08) zoom out 1 
+\i (00:01:08) setwindow pcb
+\i (00:01:08) zoom out 5341.014 2666.066
+\i (00:01:08) trapsize 4914
+\i (00:01:09) roam start
+\i (00:01:09) roam y -16
+\i (00:01:09) roam x 48
+\i (00:01:09) roam y -144
+\i (00:01:09) roam x 16
+\i (00:01:09) roam y -64
+\i (00:01:09) roam x 16
+\i (00:01:09) roam y -64
+\i (00:01:09) roam x 16
+\i (00:01:09) roam y -32
+\i (00:01:09) roam y -32
+\i (00:01:09) roam y -32
+\i (00:01:09) roam x 16
+\i (00:01:09) roam y -32
+\i (00:01:09) roam y -16
+\i (00:01:09) roam y -16
+\i (00:01:09) roam y -16
+\i (00:01:09) roam y -32
+\i (00:01:09) roam y -16
+\i (00:01:09) roam y -16
+\i (00:01:09) roam y -16
+\i (00:01:09) roam y -16
+\i (00:01:09) roam y -16
+\i (00:01:10) roam y -16
+\i (00:01:10) roam end
+\i (00:01:11) roam start
+\i (00:01:11) roam x -16
+\i (00:01:11) roam x -32
+\i (00:01:11) roam y -16
+\i (00:01:11) roam x -16
+\i (00:01:11) roam y -16
+\i (00:01:11) roam x -16
+\i (00:01:11) roam y -16
+\i (00:01:11) roam end
+\i (00:01:11) zoom in 1 
+\i (00:01:11) setwindow pcb
+\i (00:01:11) zoom in 5484.877 3422.169
+\i (00:01:11) trapsize 2457
+\i (00:01:13) zoom out 1 
+\i (00:01:13) setwindow pcb
+\i (00:01:13) zoom out 5477.014 3433.963
+\i (00:01:13) trapsize 4914
+\i (00:01:13) roam start
+\i (00:01:13) roam x -16
+\i (00:01:13) roam y 16
+\i (00:01:13) roam x -16
+\i (00:01:13) roam y 32
+\i (00:01:13) roam x -16
+\i (00:01:13) roam y 16
+\i (00:01:14) roam x -16
+\i (00:01:14) roam y 16
+\i (00:01:14) roam x -16
+\i (00:01:14) roam x -32
+\i (00:01:14) roam y 16
+\i (00:01:14) roam x -16
+\i (00:01:14) roam x -32
+\i (00:01:14) roam x -80
+\i (00:01:14) roam y -16
+\i (00:01:14) roam x -112
+\i (00:01:14) roam y -32
+\i (00:01:14) roam x -16
+\i (00:01:14) roam x -32
+\i (00:01:14) roam x -16
+\i (00:01:14) roam end
+\i (00:01:18) trapsize 7738
+\i (00:01:20) trapsize 4914
+\i (00:01:21) zoom out 1 
+\i (00:01:21) setwindow pcb
+\i (00:01:21) zoom out 4821.482 3401.531
+\i (00:01:21) trapsize 9828
+\i (00:01:21) zoom out 1 
+\i (00:01:21) setwindow pcb
+\i (00:01:21) zoom out 4821.483 3387.771
+\i (00:01:22) trapsize 19656
+\i (00:01:22) zoom out 1 
+\i (00:01:22) setwindow pcb
+\i (00:01:22) zoom out 4829.345 3364.184
+\i (00:01:22) trapsize 39312
+\i (00:01:25) zoom in 1 
+\i (00:01:25) setwindow pcb
+\i (00:01:25) zoom in 6197.412 1909.630
+\i (00:01:25) trapsize 19656
+\i (00:01:25) zoom in 1 
+\i (00:01:25) setwindow pcb
+\i (00:01:25) zoom in 6228.861 1850.662
+\i (00:01:25) trapsize 9828
+\i (00:01:27) pick grid 6279.968 1618.720
+\t (00:01:27) last pick:  6279.970 1618.720
+\i (00:01:27) pick grid 6276.036 1624.616
+\t (00:01:27) last pick:  6276.040 1624.620
+\i (00:01:28) drag_start grid 6291.761 1612.823
+\i (00:01:28) drag_stop 6130.581 1819.212
+\i (00:01:29) pick grid 6128.615 1823.143
+\t (00:01:29) last pick:  6128.620 1823.140
+\i (00:01:29) zoom in 1 
+\i (00:01:29) setwindow pcb
+\i (00:01:29) zoom in 6217.068 1687.516
+\i (00:01:29) trapsize 4914
+\i (00:01:29) zoom in 1 
+\i (00:01:29) setwindow pcb
+\i (00:01:29) zoom in 6214.120 1681.619
+\i (00:01:29) trapsize 2457
+\i (00:01:29) zoom in 1 
+\i (00:01:29) setwindow pcb
+\i (00:01:29) zoom in 6209.697 1679.654
+\i (00:01:29) trapsize 1229
+\i (00:01:29) zoom in 1 
+\i (00:01:29) setwindow pcb
+\i (00:01:29) zoom in 6209.451 1679.654
+\i (00:01:29) trapsize 614
+\i (00:01:29) zoom out 1 
+\i (00:01:29) setwindow pcb
+\i (00:01:29) zoom out 6207.486 1680.882
+\i (00:01:29) trapsize 1229
+\i (00:01:29) zoom out 1 
+\i (00:01:29) setwindow pcb
+\i (00:01:29) zoom out 6207.485 1680.883
+\i (00:01:29) trapsize 2457
+\i (00:01:29) zoom out 1 
+\i (00:01:29) setwindow pcb
+\i (00:01:29) zoom out 6206.994 1681.374
+\i (00:01:29) trapsize 4914
+\i (00:01:30) zoom out 1 
+\i (00:01:30) setwindow pcb
+\i (00:01:30) zoom out 6197.166 1692.186
+\i (00:01:30) trapsize 9828
+\i (00:01:30) roam start
+\i (00:01:30) roam y -16
+\i (00:01:30) roam x -16
+\i (00:01:30) roam x -16
+\i (00:01:30) roam y -48
+\i (00:01:30) roam x -16
+\i (00:01:30) roam y -64
+\i (00:01:30) roam x -16
+\i (00:01:30) roam y -48
+\i (00:01:30) roam x -16
+\i (00:01:30) roam y -48
+\i (00:01:30) roam x -16
+\i (00:01:30) roam y -32
+\i (00:01:30) roam x -16
+\i (00:01:30) roam y -48
+\i (00:01:30) roam y -48
+\i (00:01:30) roam x -16
+\i (00:01:30) roam y -32
+\i (00:01:30) roam x -16
+\i (00:01:30) roam y -16
+\i (00:01:30) roam x -16
+\i (00:01:30) roam y -48
+\i (00:01:30) roam x -16
+\i (00:01:30) roam y -16
+\i (00:01:30) roam end
+\i (00:01:31) zoom in 1 
+\i (00:01:31) setwindow pcb
+\i (00:01:31) zoom in 5368.905 2540.592
+\i (00:01:31) trapsize 4914
+\i (00:01:32) roam start
+\i (00:01:32) roam x -16
+\i (00:01:32) roam x -16
+\i (00:01:32) roam x -32
+\i (00:01:32) roam x -16
+\i (00:01:32) roam x -16
+\i (00:01:32) roam x -16
+\i (00:01:32) roam x -16
+\i (00:01:32) roam x -16
+\i (00:01:32) roam x -16
+\i (00:01:32) roam x -32
+\i (00:01:32) roam x -32
+\i (00:01:32) roam x -16
+\i (00:01:32) roam x -32
+\i (00:01:32) roam x -80
+\i (00:01:32) roam x -32
+\i (00:01:32) roam x -16
+\i (00:01:32) roam end
+\i (00:01:33) zoom in 1 
+\i (00:01:33) setwindow pcb
+\i (00:01:33) zoom in 4781.187 2545.506
+\i (00:01:33) trapsize 2457
+\i (00:01:33) zoom in 1 
+\i (00:01:33) setwindow pcb
+\i (00:01:33) zoom in 4777.748 2544.523
+\i (00:01:33) trapsize 1229
+\i (00:01:34) zoom out 1 
+\i (00:01:34) setwindow pcb
+\i (00:01:34) zoom out 4777.748 2545.506
+\i (00:01:34) trapsize 2457
+\i (00:01:34) zoom out 1 
+\i (00:01:34) setwindow pcb
+\i (00:01:34) zoom out 4777.749 2545.506
+\i (00:01:34) trapsize 4914
+\i (00:01:35) zoom out 1 
+\i (00:01:35) setwindow pcb
+\i (00:01:35) zoom out 4779.714 2545.506
+\i (00:01:35) trapsize 9828
+\i (00:01:36) zoom out 1 
+\i (00:01:36) setwindow pcb
+\i (00:01:36) zoom out 4781.680 2547.471
+\i (00:01:36) trapsize 19656
+\i (00:01:37) zoom in 1 
+\i (00:01:37) setwindow pcb
+\i (00:01:37) zoom in 4789.543 2574.989
+\i (00:01:37) trapsize 9828
+\i (00:01:39) QtSignal CVPLayerGrid CVPBoxAllL4-s1 clicked false
+\i (00:01:39) QtSignal CVPLayerGrid CVPBoxAllBottom clicked false
+\i (00:01:40) roam start
+\i (00:01:40) roam y -16
+\i (00:01:40) roam x 16
+\i (00:01:40) roam y -16
+\i (00:01:40) roam x 16
+\i (00:01:41) roam x 16
+\i (00:01:41) roam y -16
+\i (00:01:41) roam y -16
+\i (00:01:41) roam end
+\i (00:01:41) zoom out 1 
+\i (00:01:41) setwindow pcb
+\i (00:01:41) zoom out 5917.312 2579.905
+\i (00:01:41) trapsize 19656
+\i (00:01:42) zoom in 1 
+\i (00:01:42) setwindow pcb
+\i (00:01:42) zoom in 5917.311 2575.973
+\i (00:01:42) trapsize 9828
+\i (00:01:55) pick grid 5669.645 2866.884
+\t (00:01:55) last pick:  5669.650 2866.880
+\i (00:01:55) zoom out 1 
+\i (00:01:55) setwindow pcb
+\i (00:01:55) zoom out 5673.576 2866.884
+\i (00:01:55) trapsize 19656
+\i (00:01:56) zoom in 1 
+\i (00:01:56) setwindow pcb
+\i (00:01:56) zoom in 5728.613 2866.883
+\i (00:01:56) trapsize 9828
+\i (00:01:59) roam start
+\i (00:01:59) roam y -16
+\i (00:01:59) roam y -16
+\i (00:01:59) roam y 16
+\i (00:01:59) roam y 16
+\i (00:01:59) roam y 16
+\i (00:01:59) roam y 16
+\i (00:01:59) roam y 16
+\i (00:01:59) roam y 16
+\i (00:02:00) roam end
+\t (00:15:07) Performing autosave...
+\t (00:15:08) Autosave successful
+\i (00:31:10) xname_flush 
+\i (00:31:26) xname_flush '!' 
+\i (02:09:05) exit 
+\e (02:09:05) Do you want to save the changes you made to RK3568_Template_DDR4P216SD6_48x32_1600MHZ_V10_20210129GXL.brd?
+\i (02:09:09) fillin no 
+\t (02:09:10)     Journal end - Tue Jun 10 22:50:03 2025

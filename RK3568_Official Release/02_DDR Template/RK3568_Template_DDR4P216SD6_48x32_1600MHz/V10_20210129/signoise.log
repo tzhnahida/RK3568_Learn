@@ -1,0 +1,5 @@
+INFO: Loaded existing device file 'F:\OneDrive\Projects\PCB\HL-VPN\RK3568_Official Release\02_DDR Template\RK3568_Template_DDR4P216SD6_48x32_1600MHz\V10_20210129\devices.dml'
+INFO: Finished loading SigNoise device libraries
+INFO: Loaded existing interconnect file 'F:\OneDrive\Projects\PCB\HL-VPN\RK3568_Official Release\02_DDR Template\RK3568_Template_DDR4P216SD6_48x32_1600MHz\V10_20210129\interconn.iml'
+INFO: Loaded existing interconnect file 'D:\Cadence\Cadence\SPB_17.4\share\pcb\signal\cds_interconn.iml'
+INFO: Finished loading SigNoise interconnect libraries

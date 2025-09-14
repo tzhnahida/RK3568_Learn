@@ -1,0 +1,1373 @@
+\t (00:00:00) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (00:00:00)     Journal start - Mon Mar 01 17:11:20 2021
+\t (00:00:00)         Host=YWQ User=admin Pid=8476 CPUs=16
+\t (00:00:00) CmdLine= c:\cadence\cadence_spb_16.6-2015\tools\pcb\bin\allegro.exe Z:\Layout_Group\Mypcb\RK3566_RK3568\RK3568_Template\RK3568_Template_LP4XD200P132SD6_43x28_1600MHz\RK3568_Template_LP4XD200P132SD6_43x28_1600MHz_V10_20210201.brd
+\t (00:00:00) 
+   (00:00:00) 
+   (00:00:00) setSkillPath(buildString(append1(getSkillPath() "C:\Cadence\SPB_Data\pcbenv"
+   (00:00:00)                                                                            ^
+   (00:00:00) PARSER WARNING at line 2 column 76 of file allegro.ilinit
+   (00:00:00) *WARNING* (Parser): character found after backslash is not meaningful - C:\Cadence\SPB_Data\pcbenv
+   (00:00:00) 
+   (00:00:00) setSkillPath(buildString(append1(getSkillPath() "C:\Cadence\SPB_Data\pcbenv"
+   (00:00:00)                                                                            ^
+   (00:00:00) PARSER WARNING at line 2 column 76 of file allegro.ilinit
+   (00:00:00) *WARNING* (Parser): character found after backslash is not meaningful - C:Cadencee\SPB_Data\pcbenv
+   (00:00:00) 
+   (00:00:00) setSkillPath(buildString(append1(getSkillPath() "C:\Cadence\SPB_Data\pcbenv"
+   (00:00:00)                                                                            ^
+   (00:00:00) PARSER WARNING at line 2 column 76 of file allegro.ilinit
+   (00:00:00) *WARNING* (Parser): character found after backslash is not meaningful - C:CadenceSPB_Datata\pcbenv
+   (00:00:00) function xFormBegin redefined
+   (00:00:00) function xFormEnd redefined
+   (00:00:00) function xCheckList redefined
+   (00:00:00) function xGroup redefined
+   (00:00:00) function xText redefined
+   (00:00:00) function xButton redefined
+   (00:00:00) function xEdit redefined
+   (00:00:00) function xComboList redefined
+   (00:00:00) *Error* load: wrong password for reading file - "x_mc_ro_text.il"
+   (00:00:00) function LCB_unDo redefined
+   (00:00:00) function LCB_Cancel redefined
+   (00:00:00) function LCB_Done redefined
+   (00:00:00) *Error* load: can't access file - "tt.ile"
+   (00:00:00) function scalpel redefined
+   (00:00:00) function rbm_print_scalpel_version redefined
+   (00:00:00) function rbm_print_scalpel_help redefined
+   (00:00:00) function rbm_cut_traces redefined
+   (00:00:00) function rbm_tidy_up redefined
+   (00:00:00) function rbm_axlMyCancel redefined
+   (00:00:00) function rbm_axlMyDone redefined
+   (00:00:00) function rbm_draw_cut_path redefined
+   (00:00:00) function rbm_find_total_path redefined
+   (00:00:00) function rbm_find_clines_in_extents_box redefined
+   (00:00:00) function cdw_axlLineXLine redefined
+   (00:00:00) function conv redefined
+   (00:00:00) function convertform redefined
+   (00:00:00) function createconvform redefined
+   (00:00:00) function Conv_Action redefined
+   (00:00:00) function align_sym redefined
+   (00:00:00) function _ASsetsymmaster redefined
+   (00:00:00) function _ASselectGrp redefined
+   (00:00:00) function _ASVertSelTol redefined
+   (00:00:00) function _ASHorzSelTol redefined
+   (00:00:00) function _ASWindSel redefined
+   (00:00:00) function _ASMoveVertComp redefined
+   (00:00:00) function _ASMoveHorzComp redefined
+   (00:00:00) function _ASInitParmForm redefined
+   (00:00:00) function _ASParmCallBk redefined
+   (00:00:00) function _ASPopUpA redefined
+   (00:00:00) function _ASPopUpB redefined
+   (00:00:00) function _ASCancel redefined
+   (00:00:00) function _ASDone redefined
+   (00:00:00) function _AScomplete redefined
+   (00:00:00) function _ASoops redefined
+   (00:00:00) function _ASInitVar redefined
+   (00:00:00) function _ASCreateFormFile redefined
+   (00:00:00) function x_align_symbol redefined
+   (00:00:00) function x_sym_align_left redefined
+   (00:00:00) function x_sym_align_right redefined
+   (00:00:00) function x_sym_align_up redefined
+   (00:00:00) function x_sym_align_down redefined
+   (00:00:00) function x_sym_align_hcenter redefined
+   (00:00:00) function x_sym_align_vcenter redefined
+   (00:00:00) function x_sym_align_undo redefined
+   (00:00:00) function x_get_sym_bbox redefined
+   (00:00:00) function x_align_text redefined
+   (00:00:00) function x_text_align_left redefined
+   (00:00:00) function x_text_align_right redefined
+   (00:00:00) function x_text_align_up redefined
+   (00:00:00) function x_text_align_down redefined
+   (00:00:00) function x_text_align_hcenter redefined
+   (00:00:00) function x_text_align_vcenter redefined
+   (00:00:00) function x_text_align_undo redefined
+   (00:00:00) function x_get_text_bbox redefined
+   (00:00:00) function ps_DanglingObjects redefined
+   (00:00:00) function ps_DanglingForm_action redefined
+   (00:00:00) function ps_ddoCheck redefined
+   (00:00:00) function danling_Refresh redefined
+   (00:00:00) function view_to_line redefined
+   (00:00:00) function init_line_location redefined
+   (00:00:00) function add_line_location redefined
+   (00:00:00) function line_location_next redefined
+   (00:00:00) function line_location_prv redefined
+   (00:00:00) function Oops_prv redefined
+   (00:00:00) function Find_Component_Routine redefined
+   (00:00:00) function x_get_sym_bbox redefined
+   (00:00:00) function x_ro_sel_refdes redefined
+   (00:00:00) function x_move_sel_refdes redefined
+   (00:00:00) function x_get_sym_bbox redefined
+   (00:00:00) function ps_UserDefinedChangeForm_action redefined
+   (00:00:00) function ps_UserDefinedChange_done redefined
+   (00:00:00) function RefreshAllShapes redefined
+   (00:00:00) function CutCancel redefined
+   (00:00:00) function CutDone redefined
+   (00:00:00) function CutOops redefined
+   (00:00:00) function ReplaceWithOldSeg redefined
+   (00:00:00) function ResetBox redefined
+   (00:00:00) function FindPointsInBox redefined
+   (00:00:01) function IsPointInBox redefined
+   (00:00:01) function Distance redefined
+   (00:00:01) function CloseEndPoint redefined
+   (00:00:01) function Is45DegreeLine redefined
+   (00:00:01) function IsSameLine redefined
+   (00:00:01) function ChangeAcc redefined
+   (00:00:01) function Greeting redefined
+   (00:00:01) function xFormBegin redefined
+   (00:00:01) function xFormEnd redefined
+   (00:00:01) function xCheckList redefined
+   (00:00:01) function xGroup redefined
+   (00:00:01) function xText redefined
+   (00:00:01) function xButton redefined
+   (00:00:01) function xEdit redefined
+   (00:00:01) function xPopEdit redefined
+   (00:00:01) *Error* load: can't access file - "Layer color_2.il"
+   (00:00:01) *Error* load: can't access file - "Layer color_8.il"
+   (00:00:01) *Error* load: can't access file - "add_RKlogo.il"
+   (00:00:01) *WARNING* (reader): a '(' at line 74 was still unclosed on EOF, ')' added
+   (00:00:01)                     at line 97 of file allegro.ilinit 
+   (00:00:01) *WARNING* defstruct: Redefining Structure DC_sControlVars.
+   (00:00:01) *WARNING* defstruct: Redefining Structure DC_sPackage.
+   (00:00:01) *WARNING* defstruct: Redefining Structure DC_sText.
+   (00:00:01) *WARNING* defstruct: Redefining Structure DC_sClearance.
+   (00:00:01) *WARNING* defstruct: Redefining Structure DC_sDefClearance.
+   (00:00:01) *WARNING* defstruct: Redefining Structure DC_sWidth.
+   (00:00:01) *WARNING* defstruct: Redefining Structure DC_sNetData.
+   (00:00:01) *WARNING* defstruct: Redefining Structure DC_sElectricalRule.
+   (00:00:01) *WARNING* defstruct: Redefining Structure DC_sMatchedDelayRule.
+   (00:00:01) *WARNING* defstruct: Redefining Structure DC_sRuleArea.
+   (00:00:01) *WARNING* defstruct: Redefining Structure DC_sFormula.
+   (00:00:01) *WARNING* defstruct: Redefining Structure DC_netPinData.
+   (00:00:01) *WARNING* defstruct: Redefining Structure DC_netKeyData.
+   (00:00:01) *WARNING* defstruct: Redefining Structure DC_sSymbolProps.
+   (00:00:01) function Check_ref redefined
+   (00:00:01) function x_align_via redefined
+   (00:00:01) function x_via_align_left redefined
+   (00:00:01) function x_via_align_right redefined
+   (00:00:01) function x_via_align_up redefined
+   (00:00:01) function x_via_align_down redefined
+   (00:00:01) function x_via_align_hcenter redefined
+   (00:00:01) function x_via_align_vcenter redefined
+   (00:00:01) function x_via_align_undo redefined
+   (00:00:01) function Change_Origin redefined
+   (00:00:01) function x_ck_symheight redefined
+   (00:00:01) function x_ck_symheight_form_Action redefined
+   (00:00:01) function x_get_sym_height redefined
+   (00:00:01) function xFormBegin redefined
+   (00:00:01) function xFormEnd redefined
+   (00:00:01) function xCheckList redefined
+   (00:00:01) function xGroup redefined
+   (00:00:01) function xText redefined
+   (00:00:01) function xButton redefined
+   (00:00:01) function xEdit redefined
+   (00:00:01) function xComboList redefined
+   (00:00:01) function make_DC_sControlVars redefined
+   (00:00:01) function copy_DC_sControlVars redefined
+   (00:00:01) function make_DC_sPackage redefined
+   (00:00:01) function copy_DC_sPackage redefined
+   (00:00:01) function make_DC_sText redefined
+   (00:00:01) function copy_DC_sText redefined
+   (00:00:01) function make_DC_sClearance redefined
+   (00:00:01) function copy_DC_sClearance redefined
+   (00:00:01) function make_DC_sDefClearance redefined
+   (00:00:01) function copy_DC_sDefClearance redefined
+   (00:00:01) function make_DC_sWidth redefined
+   (00:00:01) function copy_DC_sWidth redefined
+   (00:00:01) function make_DC_sNetData redefined
+   (00:00:01) function copy_DC_sNetData redefined
+   (00:00:01) function make_DC_sElectricalRule redefined
+   (00:00:01) function copy_DC_sElectricalRule redefined
+   (00:00:01) function make_DC_sMatchedDelayRule redefined
+   (00:00:01) function copy_DC_sMatchedDelayRule redefined
+   (00:00:01) function make_DC_sRuleArea redefined
+   (00:00:01) function copy_DC_sRuleArea redefined
+   (00:00:01) function make_DC_sFormula redefined
+   (00:00:01) function copy_DC_sFormula redefined
+   (00:00:01) function make_DC_netPinData redefined
+   (00:00:01) function copy_DC_netPinData redefined
+   (00:00:01) function make_DC_netKeyData redefined
+   (00:00:01) function copy_DC_netKeyData redefined
+   (00:00:01) function make_DC_sSymbolProps redefined
+   (00:00:01) function copy_DC_sSymbolProps redefined
+   (00:00:01) function DC_ShowVersion redefined
+   (00:00:01) function DC_EnableAl2ExpDebug redefined
+   (00:00:01) function DC_DisableAl2ExpDebug redefined
+   (00:00:01) function DisableDynamicFillMode redefined
+   (00:00:01) function EnableDynamicFillMode redefined
+   (00:00:01) function CreatePinName redefined
+   (00:00:01) function DC_Output_Choice_BuildForm redefined
+   (00:00:01) function DC_Output_Choice_Callback redefined
+   (00:00:01) function DC_Output_Choice redefined
+   (00:00:01) function DC_Output_Callback redefined
+   (00:00:01) function DC_Output_BuildForm redefined
+   (00:00:01) function DC_Output_Stub redefined
+   (00:00:01) function DC_Output redefined
+   (00:00:01) function DC_write_Dfile redefined
+   (00:00:01) function DC_write_Netlist redefined
+   (00:00:01) function DC_add_symbols redefined
+   (00:00:01) function DC_rem_symbols redefined
+   (00:00:01) function DCFindRuleSchemes15 redefined
+   (00:00:01) function DCFindRuleSchemes redefined
+   (00:00:01) function DCprocessNetClassStuff redefined
+   (00:00:01) function DCprocessPadstacks redefined
+   (00:00:01) function DCprocessNetProps redefined
+   (00:00:01) function DCprocessTechFileLayers redefined
+   (00:00:01) function DCprocessTechFileRules redefined
+   (00:00:01) function DCissueTechFileRules redefined
+   (00:00:01) function DCprocessFormulaTable redefined
+   (00:00:01) function DCprocessWidthTable redefined
+   (00:00:01) function DCprocessBoardOutline redefined
+   (00:00:01) function DCprocessBoardAreas redefined
+   (00:00:01) function DCprocessDevicePad redefined
+   (00:00:01) function DCprocessPlacement redefined
+   (00:00:01) function DCprocessClearanceTable redefined
+   (00:00:01) function DCoutputViaAsKeepout redefined
+   (00:00:01) function DCprintCompPackage redefined
+   (00:00:01) function DC_Input_Callback redefined
+   (00:00:01) function DC_Input_BuildForm redefined
+   (00:00:01) function DC_Input redefined
+   (00:00:01) function DC_read_ndd redefined
+   (00:00:01) function DC_read_rules redefined
+   (00:00:01) function DC_netin redefined
+   (00:00:01) function DC_initialize_path_for_tracks redefined
+   (00:00:01) function DC_build_path_for_tracks redefined
+   (00:00:01) function DC_build_arc_for_tracks redefined
+   (00:00:01) function DC_commit_path_for_tracks redefined
+   (00:00:01) function DC_Print_Bad_Path_To_Error_Log redefined
+   (00:00:01) function DC_InitForOutput redefined
+   (00:00:01) function DC_ExportConstraints redefined
+   (00:00:01) function DC_ReadViaSideFile redefined
+   (00:00:01) function DCsetUnits redefined
+   (00:00:01) function DCprocessNetNums redefined
+   (00:00:01) function DCprocessPartNums redefined
+   (00:00:01) function DCprocessGenericNums redefined
+   (00:00:01) function DCprocessRuleSchemes redefined
+   (00:00:01) function DCprocessPackageNums redefined
+   (00:00:01) function DCprocessUnits redefined
+   (00:00:01) function DCprocessPhysicalLayers redefined
+   (00:00:01) function DC_findSpecialPins redefined
+   (00:00:01) function DC_matchWildCardStacks redefined
+   (00:00:01) function DC_searchWildCardStack redefined
+   (00:00:01) function DCfindPackages redefined
+   (00:00:01) function DCoutputEOF redefined
+   (00:00:01) function DCupdateDiffpairEntries redefined
+   (00:00:01) function DCfindParts redefined
+   (00:00:01) function DCprocessActiveRoutingLayers redefined
+   (00:00:01) function DCprocessRuleAreas15 redefined
+   (00:00:01) function DCprocessRuleAreas redefined
+   (00:00:01) function DCscaled redefined
+   (00:00:01) function DCprintLorRVoid redefined
+   (00:00:01) function DCprintLineVoid redefined
+   (00:00:01) function DCprintPolyVoid redefined
+   (00:00:01) function DCprintRectangleVoid redefined
+   (00:00:01) function DCprintKeepoutText redefined
+   (00:00:01) function DCgetCompPart redefined
+   (00:00:01) function DCfindPlaneNets redefined
+   (00:00:01) function DCcheckBadBoundary redefined
+   (00:00:01) function DCoverlapBbox redefined
+   (00:00:01) function DCintersect redefined
+   (00:00:01) function DCdrawBoundary redefined
+   (00:00:01) function DCdrawBoundaryGeneric redefined
+   (00:00:01) function DCprintCircleVoid redefined
+   (00:00:01) function DCdrawCircle redefined
+   (00:00:01) function DCpointOnArc redefined
+   (00:00:01) function DCpointsOnArc redefined
+   (00:00:01) function DCpointsOnPathArc redefined
+   (00:00:01) function DCClineDummyList redefined
+   (00:00:01) function DCViaDummyList redefined
+   (00:00:01) function DCFindAllClines redefined
+   (00:00:01) function DCFindAllVias redefined
+   (00:00:01) function DCfindAllOfType redefined
+   (00:00:01) function DCsaveSelSet redefined
+   (00:00:01) function DCrestoreSelSet redefined
+   (00:00:01) function DCaddWidthOverride redefined
+   (00:00:01) function DCaddClearOverride redefined
+   (00:00:01) function DCaddPowerNet redefined
+   (00:00:01) function DCsetLayerSignal redefined
+   (00:00:01) function DCprintableString redefined
+   (00:00:01) function DCremoveQuotes redefined
+   (00:00:01) function DCaddLayerNumber redefined
+   (00:00:01) function DCgetLayerNumber redefined
+   (00:00:01) function DCgetPartNumber redefined
+   (00:00:01) function DCgetComponentNumber redefined
+   (00:00:01) function DCcheckSpacingNetClassNumber redefined
+   (00:00:01) function DCgetSpacingNetClassNumber redefined
+   (00:00:01) function DCcheckPhysicalNetClassNumber redefined
+   (00:00:01) function DCgetElectricalNetClassNumber redefined
+   (00:00:01) function DCgetPhysicalNetClassNumber redefined
+   (00:00:01) function DCgetRuleSchemeData redefined
+   (00:00:01) function DCgetNetClassNumber redefined
+   (00:00:01) function DCgetPadstackNumber redefined
+   (00:00:01) function DCgetPackage redefined
+   (00:00:01) function DCenableDC_Debug redefined
+   (00:00:01) function DCdisableDC_Debug redefined
+   (00:00:01) function DCDebugDump redefined
+   (00:00:01) function DCgetMatchedGroupNumber redefined
+   (00:00:01) function DCgetNetNumber redefined
+   (00:00:01) function DCselectRouting redefined
+   (00:00:01) function DCcreateFormula redefined
+   (00:00:01) function DCcreateWidthEntry redefined
+   (00:00:01) function DCCopyWidths redefined
+   (00:00:01) function DCaddViaListEntry redefined
+   (00:00:01) function DCcopyViaListEntry redefined
+   (00:00:01) function DCcreateMatchedDelayEntry redefined
+   (00:00:01) function DCcreateElectricalEntry redefined
+   (00:00:01) function DCcreateClearanceEntry redefined
+   (00:00:01) function DCCopyClearance redefined
+   (00:00:01) function DCupdateSpacingRule redefined
+   (00:00:01) function DCupdateSingleSpacing redefined
+   (00:00:01) function DCisPadstackVia redefined
+   (00:00:01) function DCprocessProperties redefined
+   (00:00:01) function DCprintGlobalPoly redefined
+   (00:00:01) function DCtransformGlobalPoly redefined
+   (00:00:01) function DCtransformPoly redefined
+   (00:00:01) function DCtransformPoint redefined
+   (00:00:01) function DCExportSummary redefined
+   (00:00:01) function DCShowExportLog redefined
+   (00:00:01) function DCemptyTables redefined
+   (00:00:01) function DCgetRelRotation redefined
+   (00:00:01) function DCdeg2rad redefined
+   (00:00:01) function DCgetVoidType redefined
+   (00:00:01) function DCinitPoly redefined
+   (00:00:01) function DCaddPolyPoint redefined
+   (00:00:01) function DCcreateError redefined
+   (00:00:01) function DCSetupErrorLog redefined
+   (00:00:01) function DCgetFromRefDesPin redefined
+   (00:00:01) function DCgetFromDelayString redefined
+   (00:00:01) function DCisMatchedDelayLengthTime redefined
+   (00:00:01) function DCgetFromCompositeName redefined
+   (00:00:01) function DCgetLayerName redefined
+   (00:00:01) function DCmakeLayerList redefined
+   (00:00:01) function DCcreateDir redefined
+   (00:00:01) function DCdeleteClasses redefined
+   (00:00:01) function DCdeleteProps redefined
+   (00:00:01) function DCdeleteItems redefined
+   (00:00:01) function DCgetFileType redefined
+   (00:00:01) function DCremoveDirString redefined
+   (00:00:01) function DCmakeDirList redefined
+   (00:00:01) function DCmakeDirName redefined
+   (00:00:01) function DCComparePathPts redefined
+   (00:00:01) function DCGetSymbolProps redefined
+   (00:00:01) function DCprintCompGeometry redefined
+   (00:00:01) function DCwriteGraphicShape redefined
+   (00:00:01) function DCdrawGraphicShape redefined
+   (00:00:01) function DCgenLineVoids redefined
+   (00:00:01) function DCisClosedPath redefined
+   (00:00:01) function DCprocessRoutingExtract redefined
+   (00:00:01) function DCcreateExtractScripts redefined
+   (00:00:01) function DCcreateForcedNetExtractScript redefined
+   (00:00:01) function DCdeleteExtractScripts redefined
+   (00:00:01) function genHKPPadstacks redefined
+   (00:00:01) function parseThermalPad redefined
+   (00:00:01) function genCustomPads redefined
+   (00:00:01) function issuePad redefined
+   (00:00:01) function displaySymbolsNum redefined
+   (00:00:01) function al2expIsDebug redefined
+   (00:00:01) function al2exp_287110 redefined
+   (00:00:01) function al2exp_enable_287110 redefined
+   (00:00:01) function al2exp_disable_287110 redefined
+   (00:00:01) function genHKPCells redefined
+   (00:00:01) function all2expFindArc redefined
+   (00:00:01) function all2expOutputCoordinates redefined
+   (00:00:01) function all2expGetRelRotation redefined
+   (00:00:01) function all2expTransformPoint redefined
+   (00:00:01) function all2expDeg2rad redefined
+   (00:00:01) function all2expSetSelectSymbols redefined
+   (00:00:01) function all2expGetPackageGroupAndMount redefined
+   (00:00:01) function all2expAddBreakoutToPinNet redefined
+   (00:00:01) function all2expFindPinByCoord redefined
+   (00:00:01) function all2expIssueEtch redefined
+   (00:00:01) function all2expIssueNetEtch redefined
+   (00:00:01) function genHKPTestPoints redefined
+   (00:00:01) function SetupDir redefined
+   (00:00:01) function createAll2ExpFileHeader redefined
+   (00:00:01) function fillinAll2ExpBaseview redefined
+   (00:00:01) function createAll2ExpBaseview redefined
+   (00:00:01) function gtopen_Export_Symbol redefined
+   (00:00:01) function gtopen_Export_Symbol_createform redefined
+   (00:00:01) function gtopen_Export_Symbol_CB redefined
+   (00:00:01) function gtopen_Export_Symbol_int_var redefined
+   (00:00:01) function gtopen_Export_Symbol_update_form redefined
+   (00:00:01) *Error* eval: unbound variable - skill
+\t (00:00:01) Opening existing design...
+\d (00:00:01) Design opened: Z:/Layout_Group/Mypcb/RK3566_RK3568/RK3568_Template/RK3568_Template_LP4XD200P132SD6_43x28_1600MHz/RK3568_Template_LP4XD200P132SD6_43x28_1600MHz_V10_20210201.brd
+\i (00:00:02) trapsize 664
+\i (00:00:02) trapsize 652
+\i (00:00:02) trapsize 666
+\i (00:00:02) trapsize 672
+\i (00:00:02) trapsize 792
+\i (00:00:02) trapsize 792
+\i (00:00:03) placementedit 
+\i (00:00:05) cmgr 
+\i (00:00:06) placementedit 
+\i (00:00:10) setwindow cmgr
+\i (00:00:10) cm newView ( worksheet 53:Electrical 66:Net 25:Routing "30:Relative Propagation Delay" )
+\i (00:00:10) cm scope Design "RK3568_Template_LP4XD200P132SD6_43x28_1600MHz_V10_20210201"
+\i (00:00:10) cm expand ( row ( "Match Group" "M_LP4_DATA1_A" ) )
+\i (00:00:10) cm expand ( row ( "Match Group" "M_LP4_DATA1_B" ) )
+\i (00:00:10) cm expand ( row ( "Match Group" "M_LP4_DATA1_B" ) )
+\i (00:00:10) cm expand ( row ( "Match Group" "M_LP4_DATA1_B" ) )
+\i (00:00:10) cm expand ( row ( "Match Group" "M_LP4_DATA1_B" ) )
+\i (00:00:10) cm expand ( row ( "Match Group" "M_LP4_DATA1_B" ) )
+\i (00:00:10) cm expand ( row ( "Match Group" "M_LP4_ADD" ) )
+\i (00:00:10) cm expand ( row ( "Match Group" "M_LP4_DATA0_B" ) )
+\i (00:00:11) cm expand ( row ( "Match Group" "M_LP4_DATA0_B" ) )
+\i (00:00:11) cm expand ( row ( "Match Group" "M_LP4_DATA0_A" ) )
+\i (00:00:11) cm expand ( row ( "Match Group" "M_LP4_DATA0_A" ) )
+\i (00:00:11) cm expand ( row ( "Match Group" "M_LP4_DATA1_B" ) )
+\i (00:00:11) cm expand ( row ( "Match Group" "M_LP4_DATA0_A" ) )
+\i (00:00:11) cm expand ( row ( "Match Group" "M_LP4_ADD" ) )
+\i (00:00:11) cm expand ( row ( "Match Group" "M_LP4_DATA1_A" ) )
+\i (00:00:11) cm expand ( row ( "Match Group" "M_LP4_DATA0_B" ) )
+\i (00:00:11) cm expand ( row ( "Match Group" "M_LP4_DATA0_B" ) )
+\i (00:00:11) cm expand ( row ( "Match Group" "M_LP4_DATA0_B" ) )
+\i (00:00:11) cm expand ( row ( "Match Group" "M_LP4_DATA0_B" ) )
+\i (00:00:11) cm expand ( row ( "Match Group" "M_LP4_DATA0_B" ) )
+\i (00:00:11) cm expand ( row ( "Match Group" "M_LP4_DATA0_B" ) )
+\i (00:00:11) cm expand ( row ( "Match Group" "M_LP4_DATA0_B" ) )
+\i (00:00:11) cm expand ( row ( "Match Group" "M_LP4_ADD" ) )
+\i (00:00:11) cm expand ( row ( "Match Group" "M_LP4_ADD" ) )
+\i (00:00:11) cm expand ( row ( "Match Group" "M_LP4_ADD" ) )
+\i (00:00:11) cm expand ( row ( "Match Group" "M_LP4_ADD" ) )
+\i (00:00:11) cm expand ( row ( "Match Group" "M_LP4_ADD" ) )
+\i (00:00:11) cm expand ( row ( "Match Group" "M_LP4_DATA1_B" ) )
+\i (00:00:11) cm expand ( row ( "Match Group" "M_LP4_DATA1_A" ) )
+\i (00:00:11) cm expand ( row ( "Match Group" "M_LP4_DATA1_A" ) )
+\i (00:00:11) cm expand ( row ( "Match Group" "M_LP4_DATA0_A" ) )
+\i (00:00:11) cm expand ( row ( "Match Group" "M_LP4_DATA0_A" ) )
+\i (00:00:11) cm expand ( row ( "Match Group" "M_LP4_ADD" ) )
+\i (00:00:11) cm expand ( row ( "Match Group" "M_LP4_ADD" ) )
+\i (00:00:11) cm expand ( row ( "Match Group" "M_LP4_DATA0_A" ) )
+\i (00:00:11) cm expand ( row ( "Match Group" "M_LP4_ADD" ) )
+\i (00:00:11) cm expand ( row ( "Match Group" "M_LP4_ADD" ) )
+\i (00:00:11) cm expand ( row ( "Match Group" "M_LP4_ADD" ) )
+\i (00:00:11) cm expand ( row ( "Match Group" "M_LP4_ADD" ) )
+\i (00:00:11) cm expand ( row ( "Match Group" "M_LP4_DATA1_B" ) )
+\i (00:00:11) cm expand ( row ( "Match Group" "M_LP4_ADD" ) )
+\i (00:00:11) cm expand ( row ( "Match Group" "M_LP4_ADD" ) )
+\i (00:00:11) cm expand ( row ( "Match Group" "M_LP4_DATA1_A" ) )
+\i (00:00:11) cm expand ( row ( "Match Group" "M_LP4_DATA1_B" ) )
+\i (00:00:11) cm expand ( row ( "Match Group" "M_LP4_ADD" ) )
+\i (00:00:11) cm expand ( row ( "Match Group" "M_LP4_ADD" ) )
+\i (00:00:11) cm expand ( row ( "Match Group" "M_LP4_DATA1_A" ) )
+\i (00:00:11) cm expand ( row ( "Match Group" "M_LP4_ADD" ) )
+\i (00:00:11) cm expand ( row ( "Match Group" "M_LP4_ADD" ) )
+\i (00:00:11) cm expand ( row ( "Match Group" "M_LP4_DATA1_A" ) )
+\i (00:00:11) cm expand ( row ( "Match Group" "M_LP4_DATA0_A" ) )
+\i (00:00:11) cm expand ( row ( "Match Group" "M_LP4_DATA1_A" ) )
+\i (00:00:11) cm expand ( row ( "Match Group" "M_LP4_ADD" ) )
+\i (00:00:13) cm analyze ( "Match Group" "M_LP4_ADD" ) RELATIVE_PROPAGATION_DELAY 4
+\i (00:00:13) cm analyze ( "Match Group" "M_LP4_DATA0_A" ) RELATIVE_PROPAGATION_DELAY 4
+\i (00:00:14) cm analyze ( "Match Group" "M_LP4_DATA0_B" ) RELATIVE_PROPAGATION_DELAY 4
+\i (00:00:14) cm analyze ( "Match Group" "M_LP4_DATA1_A" ) RELATIVE_PROPAGATION_DELAY 4
+\i (00:00:14) cm analyze ( "Match Group" "M_LP4_DATA1_B" ) RELATIVE_PROPAGATION_DELAY 4
+\i (00:00:14) cm analyze ( "Pin Pair" "U3800.J9:U1000.A4" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.A5:U3800.P9" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.A7:U3800.P2" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.A8:U3800.T2" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.B1:U3800.J2" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.B2:U3800.H3" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.B3:U3800.J4" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U3800.J8:U1000.B4" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.B6:U3800.P8" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.B7:U3800.P11" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.B8:U3800.R2" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.C1:U3800.G2" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.C4:U3800.H10" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.C5:U3800.H11" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.D5:U3800.J11" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.D6:U3800.P4" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.D8:U3800.R4" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.D9:U3800.R10" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.E4:U3800.H9" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.E6:U3800.P5" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.E8:U3800.R3" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.E9:U3800.R11" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.E11:U3800.R9" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.F4:U3800.J5" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.C2:U3800.H2" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.A2:U3800.H4" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.D1:U3800.F2" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.E1:U3800.C2" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.E2:U3800.E2" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.F2:U3800.B2" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U3800.D3:U1000.G1" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U3800.E3:U1000.G2" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.H1:U3800.C4" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.H4:U3800.B4" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.H5:U3800.C3" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.J1:U3800.F4" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.J2:U3800.E4" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.A9:U3800.Y2" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.A11:U3800.W3" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.A12:U3800.U4" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.B10:U3800.AA2" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.B11:U3800.V3" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.D12:U3800.V2" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.D14:U3800.Y3" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.D15:U3800.V4" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.E12:U3800.U2" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.E14:U3800.AA4" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.E15:U3800.Y4" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.J4:U3800.C10" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.J6:U3800.E9" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.J7:U3800.C9" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.K2:U3800.F9" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.L1:U3800.E10" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.L2:U3800.D10" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.L4:U3800.B9" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.L6:U3800.F11" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.L7:U3800.E11" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.M1:U3800.B11" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.N2:U3800.C11" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.A13:U3800.V9" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.A15:U3800.V10" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.A16:U3800.AA11" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.A17:U3800.V11" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.B13:U3800.U9" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.B14:U3800.AA9" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.B15:U3800.W10" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.B17:U3800.Y11" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.B18:U3800.U11" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.D17:U3800.Y9" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.E17:U3800.Y10" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LPDDR4_RESETN" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LPDDR4_A0_A" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LPDDR4_A0_B" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LPDDR4_A1_A" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LPDDR4_A1_B" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LPDDR4_A2_A" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LPDDR4_A2_B" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LPDDR4_A3_A" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LPDDR4_A3_B" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LPDDR4_A4_A" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LPDDR4_A4_B" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LPDDR4_A5_A" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LPDDR4_A5_B" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LPDDR4_CKE0_A" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LPDDR4_CKE0_B" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LPDDR4_CKE1_A" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LPDDR4_CKE1_B" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LPDDR4_CLKN_A" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LPDDR4_CLKN_B" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LPDDR4_CLKP_A" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LPDDR4_CLKP_B" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LPDDR4_CS0N_A" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LPDDR4_CS0N_B" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LPDDR4_CS1N_A" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LPDDR4_CS1N_B" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LPDDR4_ODT0_CA_A" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LPDDR4_ODT0_CA_B" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LPDDR4_DM0_A" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LPDDR4_DQS0N_A" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LPDDR4_DQS0P_A" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LPDDR4_DQ0_A" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LPDDR4_DQ1_A" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LPDDR4_DQ2_A" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LPDDR4_DQ3_A" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LPDDR4_DQ4_A" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LPDDR4_DQ5_A" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LPDDR4_DQ6_A" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LPDDR4_DQ7_A" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LPDDR4_DM0_B" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LPDDR4_DQS0N_B" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LPDDR4_DQS0P_B" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LPDDR4_DQ0_B" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LPDDR4_DQ1_B" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LPDDR4_DQ2_B" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LPDDR4_DQ3_B" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LPDDR4_DQ4_B" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LPDDR4_DQ5_B" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LPDDR4_DQ6_B" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LPDDR4_DQ7_B" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LPDDR4_DM1_A" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LPDDR4_DQS1N_A" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LPDDR4_DQS1P_A" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LPDDR4_DQ8_A" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LPDDR4_DQ9_A" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LPDDR4_DQ10_A" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LPDDR4_DQ11_A" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LPDDR4_DQ12_A" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LPDDR4_DQ13_A" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LPDDR4_DQ14_A" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LPDDR4_DQ15_A" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LPDDR4_DM1_B" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LPDDR4_DQS1N_B" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LPDDR4_DQS1P_B" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LPDDR4_DQ8_B" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LPDDR4_DQ9_B" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LPDDR4_DQ10_B" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LPDDR4_DQ11_B" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LPDDR4_DQ12_B" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LPDDR4_DQ13_B" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LPDDR4_DQ14_B" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LPDDR4_DQ15_B" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "PCIE20_REFCLKN" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "PCIE20_REFCLKP" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "PCIE30_REFCLKP_IN" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "PCIE30_REFCLKN_IN" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "PCIE30_RX1N" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "PCIE30_RX1P" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "PCIE30_RX0N" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "PCIE30_RX0P" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "PCIE30_TX1N" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "PCIE30_TX1P" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "PCIE30_TX0N" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "PCIE30_TX0P" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "PCIE20_RXN" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "PCIE20_RXP" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "PCIE20_TXN" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "PCIE20_TXP" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "HDMI_TX1P" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "HDMI_TX1N" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "HDMI_TX2P" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "HDMI_TX2N" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "EDP_TXD0P" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "EDP_TXD0N" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "EDP_TXD1P" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "EDP_TXD1N" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "EDP_TXD2P" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "EDP_TXD2N" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "EDP_TXD3P" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "EDP_TXD3N" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "EDP_TX_AUXP" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "EDP_TX_AUXN" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "EDP_TX_D2N" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "EDP_TX_D1N" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( XNet "HDMI_TXCLKP" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( XNet "HDMI_TXCLKN" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( XNet "HDMI_TX0P" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( XNet "HDMI_TX0N" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "HDMI_TX1P_PORT" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "HDMI_TX1N_PORT" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "MIPI_CSI_RX_CLK0P" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "MIPI_CSI_RX_CLK0N" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "MIPI_CSI_RX_D0P" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "MIPI_CSI_RX_D0N" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "MIPI_CSI_RX_D1P" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "MIPI_CSI_RX_D1N" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "MIPI_CSI_RX_D2P" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "MIPI_CSI_RX_D2N" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "MIPI_CSI_RX_D3P" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "MIPI_CSI_RX_D3N" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "MIPI_DSI_TX1_CLKP" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "MIPI_DSI_TX1_CLKN" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "MIPI_DSI_TX1_D0P" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "MIPI_DSI_TX1_D0N" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "MIPI_DSI_TX1_D1P" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "MIPI_DSI_TX1_D1N" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "MIPI_DSI_TX1_D2P" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "MIPI_DSI_TX1_D2N" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "MIPI_DSI_TX1_D3P" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "MIPI_DSI_TX1_D3N" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "SATA0_RXP" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "SATA0_RXN" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "SATA0_TXP" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "SATA0_TXN" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "BT_REG_ON_H_GPIO2_B7" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "BT_WAKE_HOST_H_GPIO2_C0" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "CAN0_RX_M1" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "CAN0_TX_M1" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "CIF_CLKOUT" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "CIF_CLKOUT_SOC" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "CLK32K_OUT1_WIFI" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "DDR_RZQ" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "DVP_PWREN0_H_GPIO0_B0" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "EDP_TX_D0N" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "EDP_TX_D0P" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "EDP_TX_D1P" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "EDP_TX_D2P" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "EDP_TX_D3N" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "EDP_TX_D3P" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "EMMC_CLKOUT/FLASH_DQS" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "EMMC_CLKOUT/FLASH_DQS_SOC" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "EMMC_CMD/FLASH_WRN" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "EMMC_DATA_STROBE/FLASH_CLE" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "EMMC_D0/FLASH_D0" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "EMMC_D1/FLASH_D1" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "EMMC_D2/FLASH_D2" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "EMMC_D3/FLASH_D3" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "EMMC_D4/FLASH_D4" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "EMMC_D5/FLASH_D5" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "EMMC_D6/FLASH_D6" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "EMMC_D7/FLASH_D7" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "EMMC_RSTN/FSPI_D2/FLASH_WPN" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "ETH0_REFCLKO_25M" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "ETH1_REFCLKO_25M_M1" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "ETH1_REFCLKO_25M_M1_SOC" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "FLASH_VOL_SEL" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "FSPI_CLK/FLASH_ALE" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "FSPI_CLK/FLASH_ALE_SOC" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "FSPI_CS0N/FLASH_CS0N" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "FSPI_D0/FLASH_RDY" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "FSPI_D1/FLASH_RDN" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "FSPI_D3/FLASH_CS1N" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "GMAC0_INT/PMEB_GPIO3_C0" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "GMAC0_MCLKINOUT" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "GMAC0_MDC" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "GMAC0_MDIO" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "GMAC0_RSTN_GPIO3_B7" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "GMAC0_RXCLK" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "GMAC0_RXD0" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "GMAC0_RXD2" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "GMAC0_RXD3" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "GMAC0_TXCLK" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "GMAC0_TXD0" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "GMAC0_TXD1" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "GMAC0_TXD2" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "GMAC0_TXD3" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "GMAC0_TXEN" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "GMAC1_INT/PMEB_GPIO3_A7" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "GMAC1_MCLKINOUT_M1" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "GMAC1_MDC_M1" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "GMAC1_MDIO_M1" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "GMAC1_RSTN_GPIO3_B0" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "GMAC1_RXCLK_M1" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "GMAC1_RXDV_CRS_M1" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "GMAC1_RXD0_M1" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "GMAC1_RXD1_M1" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "GMAC1_RXD2_M1" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "GMAC1_RXD3_M1" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "GMAC1_RXER_M1/GPIO4_B2" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "GMAC1_TXCLK_M1" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "GMAC1_TXCLK_M1_SOC" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "GMAC1_TXD0_M1" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "GMAC1_TXD0_M1_SOC" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "GMAC1_TXD1_M1" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "GMAC1_TXD1_M1_SOC" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "GMAC1_TXD2_M1" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "GMAC1_TXD2_M1_SOC" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "GMAC1_TXD3_M1" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "GMAC1_TXD3_M1_SOC" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "GMAC1_TXEN_M1" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "GMAC1_TXEN_M1_SOC" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "GND" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "GPIO2_B0" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "GPIO2_C6" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "HDMIRX_DET_L_GPIO3_D0" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "HDMIRX_INT_L_GPIO4_C3" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "HDMIRX_PWREN_H_GPIO0_D6" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "HDMIRX_RST_L_GPIO4_D2" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "HDMITX_CEC_M0" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "HDMITX_SCL" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "HDMITX_SDA" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "HDMI_TX_HPDIN" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "HDMI_TX_REXT" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "HDMI_TX2N_PORT" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "HDMI_TX2P_PORT" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "HOST_WAKE_BT_H_GPIO2_C1" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "HP_DET_L_GPIO3_C2" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "I2C0_SCL_PMIC" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "I2C0_SDA_PMIC" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "I2C1_SCL_TP" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "I2C1_SDA_TP" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "I2C2_SCL_M1" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "I2C2_SDA_M1" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "I2C3_SCL_M0" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "I2C3_SDA_M0" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "I2C5_SCL_M0" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "I2C5_SDA_M0" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "I2S1_LRCK_TX_M0_RK809" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "I2S1_LRCK_TX_M0_SOC" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "I2S1_MCLK_M0_RK809" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "I2S1_MCLK_M0_SOC" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "I2S1_SCLK_TX_M0_RK809" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "I2S1_SCLK_TX_M0_SOC" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "I2S1_SDI0_M0/PDM_SDI0_M0_RK809" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "I2S1_SDO0_M0_RK809" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "I2S3_LRCK_M0" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "I2S3_LRCK_M0_SOC" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "I2S3_MCLK_M0" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "I2S3_SCLK_M0" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "I2S3_SCLK_M0_SOC" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "I2S3_SDI_M0" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "I2S3_SDO_M0" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LCD_EN_H_GPIO3_C6" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LCD_RST_L_GPIO3_C7" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LCD0_BL_PWM4" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LCD0_PWREN_H_GPIO0_C7" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LCD1_BL_PWM5" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "LCD1_PWREN_H_GPIO0_C5" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "MIPI_AVDD_0V9" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "MIPI_AVDD_1V8" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "MIPI_CAM0_PDN_L_GPIO3_D5" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "MIPI_CAM0_RST_L_GPIO3_D4" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "MIPI_CAM1_PDN_L_GPIO3_D3" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "MIPI_CAM1_RST_L_GPIO3_D2" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "MIPI_CSI_RX_CLK1N" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "MIPI_CSI_RX_CLK1P" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "MIPI_DSI_TX0_CLKN/LVDS_TX0_CLKN" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "MIPI_DSI_TX0_CLKP/LVDS_TX0_CLKP" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "MIPI_DSI_TX0_D0N/LVDS_TX0_D0N" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "MIPI_DSI_TX0_D0P/LVDS_TX0_D0P" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "MIPI_DSI_TX0_D1N/LVDS_TX0_D1N" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "MIPI_DSI_TX0_D1P/LVDS_TX0_D1P" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "MIPI_DSI_TX0_D2N/LVDS_TX0_D2N" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "MIPI_DSI_TX0_D2P/LVDS_TX0_D2P" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "MIPI_DSI_TX0_D3N/LVDS_TX0_D3N" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "MIPI_DSI_TX0_D3P/LVDS_TX0_D3P" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "N16770801" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "N16967089" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "N16967103" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "N16967727" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "N16967731" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "N17520047" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "N17520091" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "N20195077" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "N20195099" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "N20195277" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "PCIE_PWREN_H_GPIO0_D4" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "PCIE20_CLKREQN_M1" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "PCIE20_PERSTN_M1" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "PCIE20_PRSNT_L_GPIO3_B6" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "PCIE20_WAKEN_M1" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "PCIE30X1_CLKREQN_M1" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "PCIE30X1_PERSTN_M1" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "PCIE30X1_PRSNT_L_GPIO3_A0" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "PCIE30X1_WAKEN_M1" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "PCIE30X2_CLKREQN_M1" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "PCIE30X2_PERSTN_M1" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "PCIE30X2_PRSNT_L_GPIO2_D7" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "PCIE30X2_WAKEN_M1" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "PCIE30_RESREF" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "PDM_CLK0_M0_RK809" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "PDM_CLK0_M0_SOC" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "PDM_CLK1_M0_ADC" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "PDM_CLK1_M0_SOC" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "PDM_SDI1_M0_ADC" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "PDM_SDI2_M0_ADC" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "PDM_SDI3_M0_ADC" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "PMIC_INT_L" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "PMIC_SLEEP_H" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "PWM3_IR" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "REFCLKOUT" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "REFCLK_OUT" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "RESETN" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "RS485_DIR_GPIO3_B5" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "RTCIC_INT_L_GPIO0_D3" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "SARADC_VIN0_KEY/RECOVERY" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "SARADC_VIN1_HW_ID" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "SARADC_VIN2_BOM_ID" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "SARADC_VIN3" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "SARADC_VIN4" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "SARADC_VIN5" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "SARADC_VIN6" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "SARADC_VIN7" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "SATA0_ACT_LED" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "SATA1_ACT_LED" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "SATA1_RXN" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "SATA1_RXP" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "SATA1_TXN" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "SATA1_TXP" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "SATA2_ACT_LED" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "SDMMC0_CLK" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "SDMMC0_DET_L" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "SDMMC0_D0" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "SDMMC0_D1" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "SDMMC0_D2/ARMJTAG_TCK" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "SDMMC0_D3/ARMJTAG_TMS" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "SDMMC1_CLK" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "SDMMC1_CMD" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "SDMMC1_D3" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "SOC_PCM_IN" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "SPK_CTL_H_GPIO3_C3" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "TP_INT_L_GPIO0_B5" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "TP_RST_L_GPIO0_B6" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "TSADC_SHUT_M0" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "UART1_RTSN_M0" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "UART1_RX_M0" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "UART1_TX_M0" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "UART2_RX_M0_DEBUG" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "UART2_TX_M0_DEBUG" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "UART4_RX_M1" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "UART4_TX_M1" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "UART7_RX_M1" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "UART7_TX_M1" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "USB_AVDD_0V9" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "USB_AVDD_1V8" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "USB_HOST_PWREN_H_GPIO0_A6" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "USB_OTG_PWREN_H_GPIO0_A5" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "USB2_HOST2_DM" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "USB2_HOST2_DP" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "USB2_HOST3_DM" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "USB2_HOST3_DP" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "USB3_HOST1_DM" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "USB3_HOST1_DP" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "USB3_OTG0_DM" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "USB3_OTG0_DP" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "USB3_OTG0_ID" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "USB3_OTG0_VBUSDET" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "VCCA_1V8" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "VCCA1V8_IMAGE" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "VCCA1V8_PMU" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "VCCIO_ACODEC" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "VCCIO_FLASH" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "VCCIO_SD" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "VCCIO_WL" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "VCCIO4" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "VCCIO6" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "VCC_DDR" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "VCC_1V8" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "VCC_3V3" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "VCC0V6_DDR" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "VCC1V8_DDR" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "VCC3V3_PMU" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "VCC3V3_SYS" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "VDDA_0V9" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "VDDA0V9_IMAGE" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "VDDA0V9_PMU" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "VDD_CPU" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "VDD_CPU_COM" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "VDD_GPU" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "VDD_LOGIC" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "VDD_NPU" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "VGA_HPDIN_GPIO0_C0" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "VGA_PWREN_H_GPIO0_D5" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "WIFI_PWREN_L_GPIO0_C1" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "WIFI_REG_ON_H_GPIO2_B1" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "WIFI_WAKE_HOST_H_GPIO2_B2" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "WORKING_LEDEN_H_GPIO0_B7" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "XIN24M" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "XOUT24M" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "4G_DISABLE_GPIO4_C2" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( Net "4G_PWREN_H_GPIO0_C6" ) RELATIVE_PROPAGATION_OBJECT_LENGTH 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U3800.J9:U1000.A4" ) RELATIVE_PROPAGATION_OBJECT_DELAY 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.A5:U3800.P9" ) RELATIVE_PROPAGATION_OBJECT_DELAY 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.A7:U3800.P2" ) RELATIVE_PROPAGATION_OBJECT_DELAY 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.A8:U3800.T2" ) RELATIVE_PROPAGATION_OBJECT_DELAY 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.B1:U3800.J2" ) RELATIVE_PROPAGATION_OBJECT_DELAY 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.B2:U3800.H3" ) RELATIVE_PROPAGATION_OBJECT_DELAY 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.B3:U3800.J4" ) RELATIVE_PROPAGATION_OBJECT_DELAY 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U3800.J8:U1000.B4" ) RELATIVE_PROPAGATION_OBJECT_DELAY 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.B6:U3800.P8" ) RELATIVE_PROPAGATION_OBJECT_DELAY 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.B7:U3800.P11" ) RELATIVE_PROPAGATION_OBJECT_DELAY 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.B8:U3800.R2" ) RELATIVE_PROPAGATION_OBJECT_DELAY 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.C1:U3800.G2" ) RELATIVE_PROPAGATION_OBJECT_DELAY 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.C4:U3800.H10" ) RELATIVE_PROPAGATION_OBJECT_DELAY 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.C5:U3800.H11" ) RELATIVE_PROPAGATION_OBJECT_DELAY 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.D5:U3800.J11" ) RELATIVE_PROPAGATION_OBJECT_DELAY 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.D6:U3800.P4" ) RELATIVE_PROPAGATION_OBJECT_DELAY 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.D8:U3800.R4" ) RELATIVE_PROPAGATION_OBJECT_DELAY 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.D9:U3800.R10" ) RELATIVE_PROPAGATION_OBJECT_DELAY 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.E4:U3800.H9" ) RELATIVE_PROPAGATION_OBJECT_DELAY 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.E6:U3800.P5" ) RELATIVE_PROPAGATION_OBJECT_DELAY 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.E8:U3800.R3" ) RELATIVE_PROPAGATION_OBJECT_DELAY 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.E9:U3800.R11" ) RELATIVE_PROPAGATION_OBJECT_DELAY 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.E11:U3800.R9" ) RELATIVE_PROPAGATION_OBJECT_DELAY 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.F4:U3800.J5" ) RELATIVE_PROPAGATION_OBJECT_DELAY 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.C2:U3800.H2" ) RELATIVE_PROPAGATION_OBJECT_DELAY 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.A2:U3800.H4" ) RELATIVE_PROPAGATION_OBJECT_DELAY 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.D1:U3800.F2" ) RELATIVE_PROPAGATION_OBJECT_DELAY 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.E1:U3800.C2" ) RELATIVE_PROPAGATION_OBJECT_DELAY 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.E2:U3800.E2" ) RELATIVE_PROPAGATION_OBJECT_DELAY 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.F2:U3800.B2" ) RELATIVE_PROPAGATION_OBJECT_DELAY 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U3800.D3:U1000.G1" ) RELATIVE_PROPAGATION_OBJECT_DELAY 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U3800.E3:U1000.G2" ) RELATIVE_PROPAGATION_OBJECT_DELAY 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.H1:U3800.C4" ) RELATIVE_PROPAGATION_OBJECT_DELAY 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.H4:U3800.B4" ) RELATIVE_PROPAGATION_OBJECT_DELAY 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.H5:U3800.C3" ) RELATIVE_PROPAGATION_OBJECT_DELAY 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.J1:U3800.F4" ) RELATIVE_PROPAGATION_OBJECT_DELAY 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.J2:U3800.E4" ) RELATIVE_PROPAGATION_OBJECT_DELAY 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.A9:U3800.Y2" ) RELATIVE_PROPAGATION_OBJECT_DELAY 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.A11:U3800.W3" ) RELATIVE_PROPAGATION_OBJECT_DELAY 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.A12:U3800.U4" ) RELATIVE_PROPAGATION_OBJECT_DELAY 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.B10:U3800.AA2" ) RELATIVE_PROPAGATION_OBJECT_DELAY 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.B11:U3800.V3" ) RELATIVE_PROPAGATION_OBJECT_DELAY 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.D12:U3800.V2" ) RELATIVE_PROPAGATION_OBJECT_DELAY 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.D14:U3800.Y3" ) RELATIVE_PROPAGATION_OBJECT_DELAY 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.D15:U3800.V4" ) RELATIVE_PROPAGATION_OBJECT_DELAY 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.E12:U3800.U2" ) RELATIVE_PROPAGATION_OBJECT_DELAY 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.E14:U3800.AA4" ) RELATIVE_PROPAGATION_OBJECT_DELAY 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.E15:U3800.Y4" ) RELATIVE_PROPAGATION_OBJECT_DELAY 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.J4:U3800.C10" ) RELATIVE_PROPAGATION_OBJECT_DELAY 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.J6:U3800.E9" ) RELATIVE_PROPAGATION_OBJECT_DELAY 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.J7:U3800.C9" ) RELATIVE_PROPAGATION_OBJECT_DELAY 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.K2:U3800.F9" ) RELATIVE_PROPAGATION_OBJECT_DELAY 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.L1:U3800.E10" ) RELATIVE_PROPAGATION_OBJECT_DELAY 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.L2:U3800.D10" ) RELATIVE_PROPAGATION_OBJECT_DELAY 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.L4:U3800.B9" ) RELATIVE_PROPAGATION_OBJECT_DELAY 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.L6:U3800.F11" ) RELATIVE_PROPAGATION_OBJECT_DELAY 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.L7:U3800.E11" ) RELATIVE_PROPAGATION_OBJECT_DELAY 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.M1:U3800.B11" ) RELATIVE_PROPAGATION_OBJECT_DELAY 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.N2:U3800.C11" ) RELATIVE_PROPAGATION_OBJECT_DELAY 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.A13:U3800.V9" ) RELATIVE_PROPAGATION_OBJECT_DELAY 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.A15:U3800.V10" ) RELATIVE_PROPAGATION_OBJECT_DELAY 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.A16:U3800.AA11" ) RELATIVE_PROPAGATION_OBJECT_DELAY 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.A17:U3800.V11" ) RELATIVE_PROPAGATION_OBJECT_DELAY 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.B13:U3800.U9" ) RELATIVE_PROPAGATION_OBJECT_DELAY 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.B14:U3800.AA9" ) RELATIVE_PROPAGATION_OBJECT_DELAY 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.B15:U3800.W10" ) RELATIVE_PROPAGATION_OBJECT_DELAY 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.B17:U3800.Y11" ) RELATIVE_PROPAGATION_OBJECT_DELAY 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.B18:U3800.U11" ) RELATIVE_PROPAGATION_OBJECT_DELAY 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.D17:U3800.Y9" ) RELATIVE_PROPAGATION_OBJECT_DELAY 0
+\i (00:00:14) cm analyze ( "Pin Pair" "U1000.E17:U3800.Y10" ) RELATIVE_PROPAGATION_OBJECT_DELAY 0
+\i (00:00:25) cm exit
+\w (00:11:01) Save Pending
+\i (00:16:45) setwindow pcb
+\i (00:16:45) xhilite 
+\i (00:16:45) xname_flush 
+\i (00:16:45) done 
+\i (00:16:46) placementedit 
+\i (00:16:50) xdehilite 
+\i (00:16:50) xname_flush 
+\i (00:16:50) done 
+\i (00:16:51) xhilite 
+\i (00:16:51) xname_flush 
+\i (00:16:51) done 
+\i (00:16:51) placementedit 
+\i (00:16:52) xdehilite 
+\i (00:16:52) xname_flush 
+\i (00:16:52) done 
+\i (00:16:53) xhilite 
+\i (00:16:53) xname_flush 
+\i (00:16:53) done 
+\i (00:16:54) placementedit 
+\i (00:16:59) xdehilite 
+\i (00:16:59) xname_flush 
+\i (00:16:59) done 
+\i (00:17:00) placementedit 
+\i (00:17:00) xhilite 
+\i (00:17:00) xname_flush 
+\i (00:17:00) done 
+\i (00:17:01) placementedit 
+\i (00:17:01) xdehilite 
+\i (00:17:01) xname_flush 
+\i (00:17:01) done 
+\i (00:17:02) xhilite 
+\i (00:17:02) xname_flush 
+\i (00:17:02) done 
+\i (00:17:02) placementedit 
+\i (00:17:11) xdehilite 
+\i (00:17:11) xname_flush 
+\i (00:17:11) done 
+\i (00:17:12) placementedit 
+\i (00:18:03) xhilite 
+\i (00:18:03) xname_flush 
+\i (00:18:03) done 
+\i (00:18:04) placementedit 
+\i (00:18:10) xdehilite 
+\i (00:18:10) xname_flush 
+\i (00:18:10) done 
+\i (00:18:11) placementedit 
+\i (00:19:01) xhilite 
+\i (00:19:01) xname_flush 
+\i (00:19:01) done 
+\i (00:19:02) placementedit 
+\i (00:19:03) xdehilite 
+\i (00:19:04) xname_flush 
+\i (00:19:04) done 
+\i (00:19:04) xhilite 
+\i (00:19:04) xname_flush 
+\i (00:19:04) done 
+\i (00:19:05) placementedit 
+\i (00:19:06) xdehilite 
+\i (00:19:07) xname_flush 
+\i (00:19:07) done 
+\i (00:19:07) placementedit 
+\i (00:19:13) xhilite 
+\i (00:19:13) xname_flush 
+\i (00:19:13) done 
+\i (00:19:14) placementedit 
+\i (00:19:15) xdehilite 
+\i (00:19:16) xname_flush 
+\i (00:19:16) done 
+\i (00:19:16) placementedit 
+\i (00:19:32) xhilite 
+\i (00:19:32) xname_flush 
+\i (00:19:32) done 
+\i (00:19:33) placementedit 
+\i (00:19:34) xdehilite 
+\i (00:19:34) xname_flush 
+\i (00:19:34) done 
+\i (00:19:34) xhilite 
+\i (00:19:34) xname_flush 
+\i (00:19:34) done 
+\i (00:19:35) placementedit 
+\i (00:19:35) xdehilite 
+\i (00:19:36) xname_flush 
+\i (00:19:36) done 
+\i (00:19:37) placementedit 
+\i (00:20:31) xhilite 
+\i (00:20:32) xname_flush 
+\i (00:20:32) done 
+\i (00:20:32) placementedit 
+\i (00:20:33) xdehilite 
+\i (00:20:33) xname_flush 
+\i (00:20:33) done 
+\i (00:20:34) placementedit 
+\i (00:20:36) xhilite 
+\i (00:20:36) xname_flush 
+\i (00:20:36) done 
+\i (00:20:37) placementedit 
+\i (00:20:40) xdehilite 
+\i (00:20:41) xname_flush 
+\i (00:20:41) done 
+\i (00:20:41) placementedit 
+\i (00:20:45) xhilite 
+\i (00:20:45) xname_flush 
+\i (00:20:45) done 
+\i (00:20:46) placementedit 
+\i (00:20:50) xdehilite 
+\i (00:20:50) xname_flush 
+\i (00:20:50) done 
+\i (00:20:51) placementedit 
+\i (00:21:10) xhilite 
+\i (00:21:10) xname_flush 
+\i (00:21:10) done 
+\i (00:21:11) placementedit 
+\i (00:21:15) xdehilite 
+\i (00:21:15) xname_flush 
+\i (00:21:15) done 
+\i (00:21:16) placementedit 
+\i (00:22:01) xhilite 
+\i (00:22:01) xname_flush 
+\i (00:22:01) done 
+\i (00:22:02) placementedit 
+\i (00:22:08) xdehilite 
+\i (00:22:08) xname_flush 
+\i (00:22:08) done 
+\i (00:22:09) placementedit 
+\i (00:22:34) xhilite 
+\i (00:22:34) xname_flush 
+\i (00:22:34) done 
+\i (00:22:35) placementedit 
+\i (00:22:37) xdehilite 
+\i (00:22:37) xname_flush 
+\i (00:22:37) done 
+\i (00:22:38) placementedit 
+\i (00:23:01) xhilite 
+\i (00:23:01) xname_flush 
+\i (00:23:01) done 
+\i (00:23:01) placementedit 
+\i (00:23:05) xdehilite 
+\i (00:23:05) xname_flush 
+\i (00:23:05) done 
+\i (00:23:06) placementedit 
+\i (00:23:13) xhilite 
+\i (00:23:13) xname_flush 
+\i (00:23:13) done 
+\i (00:23:14) placementedit 
+\i (00:23:17) xdehilite 
+\i (00:23:17) xname_flush 
+\i (00:23:17) done 
+\i (00:23:18) placementedit 
+\i (00:23:19) xhilite 
+\i (00:23:19) xname_flush 
+\i (00:23:19) done 
+\i (00:23:20) placementedit 
+\i (00:23:21) xdehilite 
+\i (00:23:21) xname_flush 
+\i (00:23:21) done 
+\i (00:23:21) xhilite 
+\i (00:23:21) xname_flush 
+\i (00:23:21) done 
+\i (00:23:22) placementedit 
+\i (00:23:28) xdehilite 
+\i (00:23:29) xname_flush 
+\i (00:23:29) done 
+\i (00:23:29) placementedit 
+\i (00:23:31) xhilite 
+\i (00:23:31) xname_flush 
+\i (00:23:31) done 
+\i (00:23:32) placementedit 
+\i (00:23:36) xdehilite 
+\i (00:23:36) xname_flush 
+\i (00:23:36) done 
+\i (00:23:37) placementedit 
+\i (00:23:39) xhilite 
+\i (00:23:39) xname_flush 
+\i (00:23:39) done 
+\i (00:23:40) placementedit 
+\i (00:23:52) xdehilite 
+\i (00:23:52) xname_flush 
+\i (00:23:52) done 
+\i (00:23:53) placementedit 
+\i (00:23:55) xhilite 
+\i (00:23:55) xname_flush 
+\i (00:23:55) done 
+\i (00:23:55) placementedit 
+\i (00:23:56) xdehilite 
+\i (00:23:57) xname_flush 
+\i (00:23:57) done 
+\i (00:23:57) xhilite 
+\i (00:23:57) xname_flush 
+\i (00:23:57) done 
+\i (00:23:58) placementedit 
+\i (00:24:05) xdehilite 
+\i (00:24:05) xname_flush 
+\i (00:24:05) done 
+\i (00:24:06) placementedit 
+\i (00:24:09) xhilite 
+\i (00:24:09) xname_flush 
+\i (00:24:09) done 
+\i (00:24:10) placementedit 
+\i (00:24:11) xdehilite 
+\i (00:24:11) xname_flush 
+\i (00:24:11) done 
+\i (00:24:12) xhilite 
+\i (00:24:12) xname_flush 
+\i (00:24:12) done 
+\i (00:24:12) placementedit 
+\i (00:24:13) xdehilite 
+\i (00:24:13) xname_flush 
+\i (00:24:13) done 
+\i (00:24:14) placementedit 
+\i (00:24:17) xhilite 
+\i (00:24:17) xname_flush 
+\i (00:24:17) done 
+\i (00:24:18) placementedit 
+\i (00:24:22) xdehilite 
+\i (00:24:22) xname_flush 
+\i (00:24:22) done 
+\i (00:24:23) placementedit 
+\i (00:24:28) xhilite 
+\i (00:24:28) xname_flush 
+\i (00:24:28) done 
+\i (00:24:28) placementedit 
+\i (00:24:30) xdehilite 
+\i (00:24:31) xname_flush 
+\i (00:24:31) done 
+\i (00:24:31) xhilite 
+\i (00:24:31) xname_flush 
+\i (00:24:31) done 
+\i (00:24:32) placementedit 
+\i (00:24:36) xdehilite 
+\i (00:24:36) xname_flush 
+\i (00:24:36) done 
+\i (00:24:36) xhilite 
+\i (00:24:36) xname_flush 
+\i (00:24:36) done 
+\i (00:24:37) placementedit 
+\i (00:24:47) xdehilite 
+\i (00:24:47) xname_flush 
+\i (00:24:47) done 
+\i (00:24:47) xhilite 
+\i (00:24:48) xname_flush 
+\i (00:24:48) done 
+\i (00:24:48) placementedit 
+\i (00:24:52) xdehilite 
+\i (00:24:52) xname_flush 
+\i (00:24:52) done 
+\i (00:24:53) xhilite 
+\i (00:24:53) xname_flush 
+\i (00:24:53) done 
+\i (00:24:53) placementedit 
+\i (00:24:54) xdehilite 
+\i (00:24:55) xname_flush 
+\i (00:24:55) done 
+\i (00:24:55) xhilite 
+\i (00:24:55) xname_flush 
+\i (00:24:55) done 
+\i (00:24:56) placementedit 
+\i (00:25:05) xdehilite 
+\i (00:25:05) xname_flush 
+\i (00:25:05) done 
+\i (00:25:06) placementedit 
+\i (00:25:07) xhilite 
+\i (00:25:07) xname_flush 
+\i (00:25:07) done 
+\i (00:25:08) placementedit 
+\i (00:25:11) xdehilite 
+\i (00:25:11) xname_flush 
+\i (00:25:11) done 
+\i (00:25:12) placementedit 
+\i (00:25:13) xhilite 
+\i (00:25:13) xname_flush 
+\i (00:25:14) done 
+\i (00:25:14) placementedit 
+\i (00:25:28) xdehilite 
+\i (00:25:29) xname_flush 
+\i (00:25:29) done 
+\i (00:25:30) placementedit 
+\i (00:25:30) xhilite 
+\i (00:25:30) xname_flush 
+\i (00:25:30) done 
+\i (00:25:31) placementedit 
+\i (00:25:31) xdehilite 
+\i (00:25:32) xname_flush 
+\i (00:25:32) done 
+\i (00:25:32) placementedit 
+\i (00:25:34) xhilite 
+\i (00:25:35) xname_flush 
+\i (00:25:35) done 
+\i (00:25:35) placementedit 
+\i (00:25:38) xdehilite 
+\i (00:25:38) xname_flush 
+\i (00:25:38) done 
+\i (00:25:38) placementedit 
+\i (00:25:46) xhilite 
+\i (00:25:47) xname_flush 
+\i (00:25:47) done 
+\i (00:25:47) placementedit 
+\i (00:25:48) xdehilite 
+\i (00:25:49) xname_flush 
+\i (00:25:49) done 
+\i (00:25:49) placementedit 
+\i (00:25:57) xhilite 
+\i (00:25:58) xname_flush 
+\i (00:25:58) done 
+\i (00:25:58) placementedit 
+\i (00:26:09) xdehilite 
+\i (00:26:09) xname_flush 
+\i (00:26:09) done 
+\i (00:26:10) xhilite 
+\i (00:26:10) xname_flush 
+\i (00:26:10) done 
+\i (00:26:11) placementedit 
+\i (00:26:21) xdehilite 
+\i (00:26:21) xname_flush 
+\i (00:26:21) done 
+\i (00:26:22) placementedit 
+\i (00:26:47) xhilite 
+\i (00:26:47) xname_flush 
+\i (00:26:47) done 
+\i (00:26:48) placementedit 
+\i (00:27:03) xdehilite 
+\i (00:27:03) xname_flush 
+\i (00:27:03) done 
+\i (00:27:03) xhilite 
+\i (00:27:03) xname_flush 
+\i (00:27:03) done 
+\i (00:27:04) placementedit 
+\i (00:27:24) xdehilite 
+\i (00:27:24) xname_flush 
+\i (00:27:24) done 
+\i (00:27:25) placementedit 
+\i (00:39:25) xhilite 
+\i (00:39:25) xname_flush 
+\i (00:39:25) done 
+\i (00:39:26) placementedit 
+\i (00:39:26) xdehilite 
+\i (00:39:27) xname_flush 
+\i (00:39:27) done 
+\i (00:39:27) placementedit 
+\i (00:39:29) xhilite 
+\i (00:39:30) xname_flush 
+\i (00:39:30) done 
+\i (00:39:30) placementedit 
+\i (00:39:31) xdehilite 
+\i (00:39:31) xname_flush 
+\i (00:39:31) done 
+\i (00:39:32) xhilite 
+\i (00:39:32) xname_flush 
+\i (00:39:32) done 
+\i (00:39:33) placementedit 
+\i (00:39:35) xdehilite 
+\i (00:39:35) xname_flush 
+\i (00:39:35) done 
+\i (00:39:36) xhilite 
+\i (00:39:36) xname_flush 
+\i (00:39:36) done 
+\i (00:39:37) placementedit 
+\i (00:40:28) xdehilite 
+\i (00:40:29) xname_flush 
+\i (00:40:29) done 
+\i (00:40:29) placementedit 
+\i (00:49:10) xhilite 
+\i (00:49:11) xname_flush 
+\i (00:49:11) done 
+\i (00:49:11) placementedit 
+\i (00:49:28) exit 
+\e (00:49:28) Do you want to save the changes you made to RK3568_Template_LP4XD200P132SD6_43x28_1600MHz_V10_20210201.brd?
+\i (00:49:30) fillin no 
+\t (00:49:30)     Journal end - Mon Mar 01 18:00:49 2021

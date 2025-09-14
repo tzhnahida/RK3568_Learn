@@ -1,0 +1,126 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (SoftwareVersion "17.4-2019 S039 (4153571)  [11/4/2023]-[09/14/25]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    ("Allegro Netlist Directory" "allegro")
+    (File ".\learn.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify))
+  (Folder "Layout"
+    (File ".\allegro\learn.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\learn.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0")))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs")
+  (PartMRUSelector)
+  (MPSSessionName "27356")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\learn.dsn")
+      (Path "Design Resources" ".\learn.dsn" "Learn")
+      (Path "Layout")
+      (Select "Design Resources" ".\learn.dsn" "Learn" "-01.Index"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 403 0 681"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 991 28 703")
+        (Scroll "0 173")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "C:\USERS\27356\DESKTOP\RK3568-PCB\LEARN.DSN")
+      (Schematic "Learn")
+      (Page "-00.Cover Page"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 991 28 703")
+        (Scroll "99 155")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "C:\USERS\27356\DESKTOP\RK3568-PCB\LEARN.DSN")
+      (Schematic "Learn")
+      (Page "-01.Index"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 991 28 703")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "C:\USERS\27356\DESKTOP\RK3568-PCB\LEARN.DSN")
+      (Schematic "Learn")
+      (Page "-04.Power Diagram"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 991 28 703")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "C:\USERS\27356\DESKTOP\RK3568-PCB\LEARN.DSN")
+      (Schematic "Learn")
+      (Page "19.HDMI_TX_PHY"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 991 28 703")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "C:\USERS\27356\DESKTOP\RK3568-PCB\LEARN.DSN")
+      (Schematic "Learn")
+      (Page "17.WIFI_RTL8821CS"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 991 28 703")
+        (Scroll "280 516")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "C:\USERS\27356\DESKTOP\RK3568-PCB\LEARN.DSN")
+      (Schematic "Learn")
+      (Page "23.NOT_IO"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 991 28 703")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "C:\USERS\27356\DESKTOP\RK3568-PCB\LEARN.DSN")
+      (Schematic "Learn")
+      (Page "05.DDR4"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 991 28 703")
+        (Scroll "412 610")
+        (Zoom "108")
+        (Occurrence "/"))
+      (Path "C:\USERS\27356\DESKTOP\RK3568-PCB\LEARN.DSN")
+      (Schematic "Learn")
+      (Page "06.SOC_OSC/PMU/SYSPLL"))))

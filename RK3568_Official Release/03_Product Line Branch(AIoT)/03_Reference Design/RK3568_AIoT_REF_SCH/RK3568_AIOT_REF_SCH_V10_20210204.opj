@@ -1,0 +1,222 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (SoftwareVersion "17.4-2019 S037 (4108587)  [5/20/2023]-[02/04/21]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    ("Allegro Netlist Directory" "allegro")
+    (File ".\rk3568_aiot_ref_sch_v10_20210204.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify))
+  (Folder "Layout")
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs")
+  (MPSSessionName "TZH")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "f:\onedrive\projects\pcb\hl-vpn\rk3568_official release\03_product line branch(aiot)\03_reference design\rk3568_aiot_ref_sch\rk3568_aiot_ref_sch_v10_20210204.dsn")
+      (Path "Design Resources"
+         "f:\onedrive\projects\pcb\hl-vpn\rk3568_official release\03_product line branch(aiot)\03_reference design\rk3568_aiot_ref_sch\rk3568_aiot_ref_sch_v10_20210204.dsn"
+         "RK3568_AIoT_REF_SCH")
+      (Select "Design Resources"
+         "f:\onedrive\projects\pcb\hl-vpn\rk3568_official release\03_product line branch(aiot)\03_reference design\rk3568_aiot_ref_sch\rk3568_aiot_ref_sch_v10_20210204.dsn"
+         "RK3568_AIoT_REF_SCH" "95.UART/RS485/CAN Port"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 331 0 834"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1461 28 880")
+        (Scroll "644 820")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "F:\ONEDRIVE\PROJECTS\PCB\HL-VPN\RK3568_OFFICIAL RELEASE\03_PRODUCT LINE BRANCH(AIOT)\03_REFERENCE DESIGN\RK3568_AIOT_REF_SCH\RK3568_AIOT_REF_SCH_V10_20210204.DSN")
+      (Schematic "RK3568_AIoT_REF_SCH")
+      (Page "25.USB2/USB3 Port"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1461 28 880")
+        (Scroll "1923 111")
+        (Zoom "232")
+        (Occurrence "/"))
+      (Path
+         "F:\ONEDRIVE\PROJECTS\PCB\HL-VPN\RK3568_OFFICIAL RELEASE\03_PRODUCT LINE BRANCH(AIOT)\03_REFERENCE DESIGN\RK3568_AIOT_REF_SCH\RK3568_AIOT_REF_SCH_V10_20210204.DSN")
+      (Schematic "RK3568_AIoT_REF_SCH")
+      (Page "14.RK3568_USB/PCIe/SATA PHY"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1461 28 880")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "F:\ONEDRIVE\PROJECTS\PCB\HL-VPN\RK3568_OFFICIAL RELEASE\03_PRODUCT LINE BRANCH(AIOT)\03_REFERENCE DESIGN\RK3568_AIOT_REF_SCH\RK3568_AIOT_REF_SCH_V10_20210204.DSN")
+      (Schematic "RK3568_AIoT_REF_SCH")
+      (Page "11.RK3568_DDR PHY"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1461 28 880")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "F:\ONEDRIVE\PROJECTS\PCB\HL-VPN\RK3568_OFFICIAL RELEASE\03_PRODUCT LINE BRANCH(AIOT)\03_REFERENCE DESIGN\RK3568_AIOT_REF_SCH\RK3568_AIOT_REF_SCH_V10_20210204.DSN")
+      (Schematic "RK3568_AIoT_REF_SCH")
+      (Page "33.DRAM-DDR4_2x16bit_96P"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1461 28 880")
+        (Scroll "0 349")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "F:\ONEDRIVE\PROJECTS\PCB\HL-VPN\RK3568_OFFICIAL RELEASE\03_PRODUCT LINE BRANCH(AIOT)\03_REFERENCE DESIGN\RK3568_AIOT_REF_SCH\RK3568_AIOT_REF_SCH_V10_20210204.DSN")
+      (Schematic "RK3568_AIoT_REF_SCH")
+      (Page "34.DRAM-DDR4_4x16Bit_96P"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1461 28 880")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "F:\ONEDRIVE\PROJECTS\PCB\HL-VPN\RK3568_OFFICIAL RELEASE\03_PRODUCT LINE BRANCH(AIOT)\03_REFERENCE DESIGN\RK3568_AIOT_REF_SCH\RK3568_AIOT_REF_SCH_V10_20210204.DSN")
+      (Schematic "RK3568_AIoT_REF_SCH")
+      (Page "31.DRAM-DDR3_4X16Bit_96P"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1461 28 880")
+        (Scroll "-127 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "F:\ONEDRIVE\PROJECTS\PCB\HL-VPN\RK3568_OFFICIAL RELEASE\03_PRODUCT LINE BRANCH(AIOT)\03_REFERENCE DESIGN\RK3568_AIOT_REF_SCH\RK3568_AIOT_REF_SCH_V10_20210204.DSN")
+      (Schematic "RK3568_AIoT_REF_SCH")
+      (Page "64.WIFI6/BT-PCIe_2T2R + UART"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1461 28 880")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "F:\ONEDRIVE\PROJECTS\PCB\HL-VPN\RK3568_OFFICIAL RELEASE\03_PRODUCT LINE BRANCH(AIOT)\03_REFERENCE DESIGN\RK3568_AIOT_REF_SCH\RK3568_AIOT_REF_SCH_V10_20210204.DSN")
+      (Schematic "RK3568_AIoT_REF_SCH")
+      (Page "62.WIFI/BT-SDMMC1_2T2R + UART"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1461 28 880")
+        (Scroll "724 120")
+        (Zoom "140")
+        (Occurrence "/"))
+      (Path
+         "F:\ONEDRIVE\PROJECTS\PCB\HL-VPN\RK3568_OFFICIAL RELEASE\03_PRODUCT LINE BRANCH(AIOT)\03_REFERENCE DESIGN\RK3568_AIOT_REF_SCH\RK3568_AIOT_REF_SCH_V10_20210204.DSN")
+      (Schematic "RK3568_AIoT_REF_SCH")
+      (Page "60.WIFI/BT-SDMMC1_1T1R + UART"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1461 28 880")
+        (Scroll "0 169")
+        (Zoom "200")
+        (Occurrence "/"))
+      (Path
+         "F:\ONEDRIVE\PROJECTS\PCB\HL-VPN\RK3568_OFFICIAL RELEASE\03_PRODUCT LINE BRANCH(AIOT)\03_REFERENCE DESIGN\RK3568_AIOT_REF_SCH\RK3568_AIOT_REF_SCH_V10_20210204.DSN")
+      (Schematic "RK3568_AIoT_REF_SCH")
+      (Page "18.RK3568_VO Interface_2"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1461 28 880")
+        (Scroll "0 60")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "F:\ONEDRIVE\PROJECTS\PCB\HL-VPN\RK3568_OFFICIAL RELEASE\03_PRODUCT LINE BRANCH(AIOT)\03_REFERENCE DESIGN\RK3568_AIOT_REF_SCH\RK3568_AIOT_REF_SCH_V10_20210204.DSN")
+      (Schematic "RK3568_AIoT_REF_SCH")
+      (Page "17.RK3568_VO Interface_1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1461 28 880")
+        (Scroll "440 1028")
+        (Zoom "200")
+        (Occurrence "/"))
+      (Path
+         "F:\ONEDRIVE\PROJECTS\PCB\HL-VPN\RK3568_OFFICIAL RELEASE\03_PRODUCT LINE BRANCH(AIOT)\03_REFERENCE DESIGN\RK3568_AIOT_REF_SCH\RK3568_AIOT_REF_SCH_V10_20210204.DSN")
+      (Schematic "RK3568_AIoT_REF_SCH")
+      (Page "16.RK3568_VI Interface"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1461 28 880")
+        (Scroll "-127 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "F:\ONEDRIVE\PROJECTS\PCB\HL-VPN\RK3568_OFFICIAL RELEASE\03_PRODUCT LINE BRANCH(AIOT)\03_REFERENCE DESIGN\RK3568_AIOT_REF_SCH\RK3568_AIOT_REF_SCH_V10_20210204.DSN")
+      (Schematic "RK3568_AIoT_REF_SCH")
+      (Page "19.RK3568_Audio Interface"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1461 28 880")
+        (Scroll "0 119")
+        (Zoom "200")
+        (Occurrence "/"))
+      (Path
+         "F:\ONEDRIVE\PROJECTS\PCB\HL-VPN\RK3568_OFFICIAL RELEASE\03_PRODUCT LINE BRANCH(AIOT)\03_REFERENCE DESIGN\RK3568_AIOT_REF_SCH\RK3568_AIOT_REF_SCH_V10_20210204.DSN")
+      (Schematic "RK3568_AIoT_REF_SCH")
+      (Page "15.RK3568_SARADC/GPIO"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1461 28 880")
+        (Scroll "905 0")
+        (Zoom "200")
+        (Occurrence "/"))
+      (Path
+         "F:\ONEDRIVE\PROJECTS\PCB\HL-VPN\RK3568_OFFICIAL RELEASE\03_PRODUCT LINE BRANCH(AIOT)\03_REFERENCE DESIGN\RK3568_AIOT_REF_SCH\RK3568_AIOT_REF_SCH_V10_20210204.DSN")
+      (Schematic "RK3568_AIoT_REF_SCH")
+      (Page "93.LED/HW_ID/BOM_ID"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1461 28 880")
+        (Scroll "1736 632")
+        (Zoom "200")
+        (Occurrence "/"))
+      (Path
+         "F:\ONEDRIVE\PROJECTS\PCB\HL-VPN\RK3568_OFFICIAL RELEASE\03_PRODUCT LINE BRANCH(AIOT)\03_REFERENCE DESIGN\RK3568_AIOT_REF_SCH\RK3568_AIOT_REF_SCH_V10_20210204.DSN")
+      (Schematic "RK3568_AIoT_REF_SCH")
+      (Page "12.RK3568_OSC/PLL/PMUIO")))
+  (PartMRUSelector)
+  (ISPCBBASICLICENSE "false"))

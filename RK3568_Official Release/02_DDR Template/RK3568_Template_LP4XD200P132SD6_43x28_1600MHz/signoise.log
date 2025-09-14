@@ -1,0 +1,15 @@
+INFO: Loaded existing interconnect file 'Z:\Layout_Group\Mypcb\RK3566_RK3568\RK3568_Template\RK3568_Template_LP4XD200P132SD6_43x28_1600MHz\interconn.iml'
+INFO: Loaded existing interconnect file 'c:\cadence\cadence_spb_16.6-2015\share\pcb\signal\cds_interconn.iml'
+INFO: Finished loading SigNoise interconnect libraries
+INFO: Field Solver bem2d for STL_1S_1R_46
+INFO: Executing command: bem2d 0 "C:/Users/admin/AppData/Local/Temp/#Taaaaab08476.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_47
+INFO: Executing command: bem2d 0 "C:/Users/admin/AppData/Local/Temp/#Taaaaad08476.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_48
+INFO: Executing command: bem2d 0 "C:/Users/admin/AppData/Local/Temp/#Taaaaae08476.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_49
+INFO: Executing command: bem2d 0 "C:/Users/admin/AppData/Local/Temp/#Taaaaaf08476.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_50
+INFO: Executing command: bem2d 0 "C:/Users/admin/AppData/Local/Temp/#Taaaaag08476.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_51
+INFO: Executing command: bem2d 0 "C:/Users/admin/AppData/Local/Temp/#Taaaaah08476.in" 0.00127
