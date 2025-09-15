@@ -62,10 +62,10 @@ The board is intended for embedded learning and system development, with represe
 4. **TBD**: To be determined (Values will be updated in future revisions).  
 
 ### Board (Front View)
-![Board Front](Images\board_front.jpg)
+![Board Front](images/board_front.jpg)
 
 ### Testing in Progress
-![Board Test](Images\board_test.jpg)
+![Board Test](images/board_test.jpg)
 
 ## Known Issue
 There is a schematic design error in the ETH0/ETH1 power supply section:  
