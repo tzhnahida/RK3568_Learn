@@ -11,9 +11,6 @@ I independently completed the schematic design, PCB layout, and basic bring-up t
 
 The board is intended for embedded learning and system development, with representative educational and practical value.  
 
-
-## Project Showcase
-
 ## Core Features
 1. **PMIC**: RK809-5 + Discrete Power  
 2. **RAM**: DDR4 2x16Bit  
@@ -60,6 +57,8 @@ The board is intended for embedded learning and system development, with represe
 2. **ADJ FB=0.8V**: Adjustable voltage with a base reference of 0.8V.  
 3. **1.8V**: Voltage may switch between 3.3V and 1.8V depending on SD card mode.  
 4. **TBD**: To be determined (Values will be updated in future revisions).  
+
+## Project Showcase
 
 ### Board (Front View)
 ![Board Front](Images/board_front.jpg)
