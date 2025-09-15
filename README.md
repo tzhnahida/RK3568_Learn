@@ -5,6 +5,15 @@ This Learn Core Board is designed for high-performance embedded applications, fe
 
 For detailed schematics and diagrams, refer to the sections below.
 
+## Project Overview
+This project is based on the RK3568 processor and aims to explore and practice high-performance embedded hardware design.  
+I independently completed the schematic design, PCB layout, and basic bring-up testing of the core board.  
+
+The board is intended for embedded learning and system development, with representative educational and practical value.  
+
+
+## Project Showcase
+
 ## Core Features
 1. **PMIC**: RK809-5 + Discrete Power  
 2. **RAM**: DDR4 2x16Bit  
@@ -52,7 +61,17 @@ For detailed schematics and diagrams, refer to the sections below.
 3. **1.8V**: Voltage may switch between 3.3V and 1.8V depending on SD card mode.  
 4. **TBD**: To be determined (Values will be updated in future revisions).  
 
----  
+### Board (Front View)
+![Board Front](images/board_front.jpg)
+
+### Testing in Progress
+![Board Test](images/board_test.jpg)
+
+## Known Issue
+There is a schematic design error in the ETH0/ETH1 power supply section:  
+- The IO supply pins, which should have been powered at **1.0V**, were mistakenly connected to **3.3V**.  
+- This caused the Ethernet interfaces to fail to function properly.  
+  
 
 ## Revision History
 | Version | Date       | Change Description                                   | Approved By |
